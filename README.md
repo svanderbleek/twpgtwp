@@ -22,36 +22,34 @@ So let's get started.
 
 ## Building a SLED
 
-
+So you can go places.
 
 ## Topics
 
-### Instructions
+### Ubiquitos Computation
+#### Service Discovery
 
+### ISA
 #### SLED
 #### SSL
+#### Sail
+#### Lem
 
-### Verification Stack
-
-### Operating System
-
-#### Trusted Execution Environments
-
+### OS
+#### TEE
 #### Memory
-
+##### Registers
+##### RAM
 ##### Pointers
-
 #### Capabilities
 #### Singularity OS
 
 ### Lambda Calculus
-
 #### Pointfree
 #### Godelization
 #### Self-interpreter
 
 ### Abstract Machines
-
 #### Complexity
 #### SECD
 #### CAM
@@ -64,7 +62,6 @@ So let's get started.
 ### Compilers
 
 ### Logics and Types
-
 #### FOL
 #### HOL
 #### Hoare 
