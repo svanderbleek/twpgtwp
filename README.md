@@ -45,6 +45,8 @@ Think of yourself as given some arbitrary computing device with whatever capabil
 
 ### Logics and Types
 
+#### FOL
+#### HOL
 #### Hoare 
 #### Separation 
 #### Linear
@@ -55,4 +57,4 @@ Think of yourself as given some arbitrary computing device with whatever capabil
 #### Session 
 #### Indexed
 #### Bunched 
-#### Dependent Types
+#### Dependent
