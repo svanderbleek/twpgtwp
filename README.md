@@ -18,7 +18,19 @@ Here is an example. Let us try and write a basic applicative language, just func
 
 Think of yourself as given some arbitrary computing device with whatever capabilities. You want to bootstrap a computing environment on top of this to learn and optimize. A concrete goal is being able to self study mathematics and computer science using the system you will construct.
 
+So let's get started.
+
+## Building a SLED
+
+
+
 ## Topics
+
+### Instructions
+
+#### SLED
+#### EEL
+#### SSL
 
 ### Verification Stack
 
@@ -27,6 +39,7 @@ Think of yourself as given some arbitrary computing device with whatever capabil
 #### Trusted Execution Environments
 
 #### Memory
+
 ##### Pointers
 
 #### Capabilities
