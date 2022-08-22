@@ -36,20 +36,23 @@ Think of yourself as given some arbitrary computing device with whatever capabil
 
 ### Abstract Machines
 
-#### Lambda
-#### Logic
-#### Categorical
-#### Graph
+#### SECD
+#### CAM
+#### WAM
+#### KRIVINE
+#### CHAM
+#### SMC
 
 ### Logics and Types
 
-#### Hoare Logic
-#### Separation Logic
-#### Linear Logic
-#### Uniqueness Types
-#### Session Types
-#### Indexed Types
-#### Bunched 
-#### Dependent Types
+#### Hoare 
+#### Separation 
+#### Linear
 #### Modal
 #### Comonad
+#### Graded
+#### Uniqueness
+#### Session 
+#### Indexed
+#### Bunched 
+#### Dependent Types
