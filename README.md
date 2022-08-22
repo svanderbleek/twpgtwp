@@ -46,6 +46,7 @@ Think of yourself as given some arbitrary computing device with whatever capabil
 #### Uniqueness Types
 #### Session Types
 #### Indexed Types
+#### Bunched 
 #### Dependent Types
 #### Modal
 #### Comonad
