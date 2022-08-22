@@ -32,16 +32,24 @@ Think of yourself as given some arbitrary computing device with whatever capabil
 #### Capabilities
 #### Singularity OS
 
-### Compiler
+### Lambda Calculus
+
+#### Pointfree
+#### Godelization
+#### Self-interpreter
 
 ### Abstract Machines
 
+#### Complexity
 #### SECD
 #### CAM
 #### WAM
-#### KRIVINE
+#### MAM
+#### KAM
 #### CHAM
 #### SMC
+
+### Compilers
 
 ### Logics and Types
 
