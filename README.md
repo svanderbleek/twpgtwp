@@ -29,7 +29,6 @@ So let's get started.
 ### Instructions
 
 #### SLED
-#### EEL
 #### SSL
 
 ### Verification Stack
