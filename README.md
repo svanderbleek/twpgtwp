@@ -24,8 +24,11 @@ Think of yourself as given some arbitrary computing device with whatever capabil
 
 ### Operating System
 
+#### Trusted Execution Environments
+
 #### Memory
 ##### Pointers
+
 #### Capabilities
 #### Singularity OS
 
