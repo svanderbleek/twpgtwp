@@ -26,9 +26,6 @@ So you can go places.
 
 ## Topics
 
-### Ubiquitos Computation
-#### Service Discovery
-
 ### ISA
 #### SLED
 #### SSL
