@@ -26,6 +26,10 @@ So you can go places.
 
 If you're willing to be crazy you can get a lot done.
 
+## Snippets
+
+> parser generators have become standard compiler technology (AHO et al., 2006, p. 287) and table-driven back end descriptors are not unusual in modern compiler infrastructures (GOLDBERG, 2017, p. 28)
+
 ## Topics
 
 ### Binary
