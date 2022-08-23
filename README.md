@@ -28,6 +28,11 @@ If you're willing to be crazy you can get a lot done.
 
 ## Topics
 
+### Binary
+#### Bincodes
+#### Logicodes
+#### Interpolation based bintree
+
 ### Text
 #### Poplar
 #### Editing by Example
