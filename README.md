@@ -43,6 +43,21 @@ Revisiting simple and energy efficient embedded processor designs toward the edg
 AISC: Approximate Instruction Set Computer
 An Analysis of x86 Single-Instruction Compiling as an Obfuscation Technique
 Regular Expression Order-Sorted Unification and Matching
+BAP: A Binary Analysis Platform
+SAIL: Static Analysis Intermediate Language with a Two-level Representation.
+
+## Binary Analysis
+
+* https://github.com/angr/angr
+* https://github.com/BinaryAnalysisPlatform/bap
+* https://github.com/binsec/binsec
+* https://github.com/google/binnavi
+* https://github.com/hotelzululima/insight
+* https://github.com/jkinder/jakstab
+* https://github.com/cea-sec/miasm
+* https://github.com/radareorg/radare2
+* https://github.com/revng/revng
+* https://github.com/B2R2-org/B2R2
 
 ## Feasability Study
 
