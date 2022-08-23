@@ -18,6 +18,7 @@ A Logic for Secure Stratified Systems and its Application to Containerized Syste
 Automatic extraction of x86 formal semantics from its natural language description
 DSV: Disassembly Soundness Validation withoutAssuming a Ground Truth
 TYPES FOR THE CHAIN OF TRUST: NO (LOADER) WRITE LEFT BEHIND
+BARF: A multiplatform open source Binary Analysis and Reverse engineering Framework
 
 ## Feasability Study
 
