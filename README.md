@@ -26,6 +26,10 @@ So you can go places.
 
 ## Topics
 
+### Text
+#### Inference from Examples
+#### Applicative Language
+
 ### ISA
 #### SLED
 #### SSL
