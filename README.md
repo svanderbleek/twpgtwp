@@ -2,6 +2,23 @@
 
 The Working Programmer's Guide To Working Programs
 
+## Feasability Study
+
+Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
+
+## Tools
+
+What is given by the system we intend to develop on? How can we organize and utilize what we have as a starting point?
+
+* https://github.com/jart/bestline
+
+### Read
+### Print
+### Loop
+### Eval
+### Instructions
+### Metrics
+
 ## Intro
 
 Change your thinking, change your soul.
