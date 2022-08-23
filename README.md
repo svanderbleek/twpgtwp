@@ -101,6 +101,7 @@ If you're willing to be crazy you can get a lot done.
 ##### Pointers
 #### Capabilities
 #### Singularity OS
+#### Oxide (https://hubris.oxide.computer/reference/)
 
 ### Lambda Calculus
 #### Pointfree
