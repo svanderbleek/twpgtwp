@@ -31,6 +31,7 @@ Synthesizable-from-C Embedded Processor Based on MIPS-ISA and OISC
 An Exploration Platform for Microcoded RISC-V Cores leveraging the One Instruction Set Computer Principle
 A Multi-One Instruction Set Computer for Microcontroller Applications
 Hybrid Analog Signal-Based Models of Computation
+Review on HEROIC Framework: Homomorphically EncRypted One Instruction Computer
 
 ## Feasability Study
 
