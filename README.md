@@ -27,8 +27,15 @@ So you can go places.
 ## Topics
 
 ### Text
-#### Inference from Examples
-#### Applicative Language
+#### Poplar
+#### Editing by Example
+#### Sequitur
+
+#### CollapseOS
+#### Boostrapping Hex
+#### Unary languages recognized by two-way one-counter automata
+#### Gadgets for Return Oriented Programming
+#### Analyzing Binary Memory In Executables
 
 ### ISA
 #### SLED
