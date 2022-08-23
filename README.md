@@ -42,6 +42,7 @@ Simple instruction-set computer for area and energy-sensitive IoT edge devices
 Revisiting simple and energy efficient embedded processor designs toward the edge computing
 AISC: Approximate Instruction Set Computer
 An Analysis of x86 Single-Instruction Compiling as an Obfuscation Technique
+Regular Expression Order-Sorted Unification and Matching
 
 ## Feasability Study
 
@@ -141,10 +142,13 @@ If you're willing to be crazy you can get a lot done.
 #### Singularity OS
 #### Oxide (https://hubris.oxide.computer/reference/)
 
-### Lambda Calculus
-#### Pointfree
-#### Godelization
-#### Self-interpreter
+### Language
+#### Applicative
+#### Concatative
+#### Lambda Calculus
+##### Pointfree
+##### Godelization
+##### Self-interpreter
 
 ### Abstract Machines
 #### Complexity
