@@ -32,6 +32,7 @@ An Exploration Platform for Microcoded RISC-V Cores leveraging the One Instructi
 A Multi-One Instruction Set Computer for Microcontroller Applications
 Hybrid Analog Signal-Based Models of Computation
 Review on HEROIC Framework: Homomorphically EncRypted One Instruction Computer
+Design Space Exploration of Flexible Heterogeneous Dual-Core Processor using MIPS and Extended OISC: A Case Study
 
 ## Feasability Study
 
