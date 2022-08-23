@@ -37,6 +37,7 @@ If you're willing to be crazy you can get a lot done.
 #### Poplar
 #### Editing by Example
 #### Sequitur
+#### Grammar-based compression
 
 #### CollapseOS
 #### Boostrapping Hex
