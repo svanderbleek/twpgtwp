@@ -33,6 +33,15 @@ A Multi-One Instruction Set Computer for Microcontroller Applications
 Hybrid Analog Signal-Based Models of Computation
 Review on HEROIC Framework: Homomorphically EncRypted One Instruction Computer
 Design Space Exploration of Flexible Heterogeneous Dual-Core Processor using MIPS and Extended OISC: A Case Study
+Low-complexity Two Instruction Set Computer architecture for sensor network using Skipjack encryption
+Reliable Computing with Ultra-Reduced Instruction Set Co-processors
+Everybody be cool, this is a roppery!
+Overview of software dependability computing techniques from instruction set architecture's viewpoint
+One-instruction set computer-based multicore processors for energy-efficient streaming data processing
+Simple instruction-set computer for area and energy-sensitive IoT edge devices
+Revisiting simple and energy efficient embedded processor designs toward the edge computing
+AISC: Approximate Instruction Set Computer
+An Analysis of x86 Single-Instruction Compiling as an Obfuscation Technique
 
 ## Feasability Study
 
