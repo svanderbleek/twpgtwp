@@ -24,6 +24,8 @@ So let's get started.
 
 So you can go places.
 
+If you're willing to be crazy you can get a lot done.
+
 ## Topics
 
 ### Text
