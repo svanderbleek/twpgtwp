@@ -64,7 +64,8 @@ If you're willing to be crazy you can get a lot done.
 #### Logicodes
 #### Interpolation based bintree
 
-### Hacking
+### Hacks
+#### Mismorphisms
 #### Gadgets
 #### Blocks
 #### Discovery
