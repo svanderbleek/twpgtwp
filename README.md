@@ -23,6 +23,14 @@ Evaluation of the Executional Power in Windows using Return Oriented Programming
 An Optimized Intermediate Representation for Binary Rewriting at Runtime
 Survey of methods for automated code-reuse exploit generation
 Poster: Challenges and next steps in binary program analysis with angr
+A framework for automated architecture-independent gadget search
+Return-oriented programming on a resource constrained device
+[m]allotROPism: a metamorphic engine for malicious software variation development
+Reliable computing with ultra-reduced instruction set co-processors
+Synthesizable-from-C Embedded Processor Based on MIPS-ISA and OISC
+An Exploration Platform for Microcoded RISC-V Cores leveraging the One Instruction Set Computer Principle
+A Multi-One Instruction Set Computer for Microcontroller Applications
+Hybrid Analog Signal-Based Models of Computation
 
 ## Feasability Study
 
