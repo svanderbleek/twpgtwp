@@ -6,6 +6,9 @@ The Working Programmer's Guide To Working Programs
 
 Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
 
+## Methodology
+### Stages
+
 ## Tools
 
 What is given by the system we intend to develop on? How can we organize and utilize what we have as a starting point?
