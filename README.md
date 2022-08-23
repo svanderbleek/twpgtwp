@@ -21,6 +21,8 @@ TYPES FOR THE CHAIN OF TRUST: NO (LOADER) WRITE LEFT BEHIND
 BARF: A multiplatform open source Binary Analysis and Reverse engineering Framework
 Evaluation of the Executional Power in Windows using Return Oriented Programming
 An Optimized Intermediate Representation for Binary Rewriting at Runtime
+Survey of methods for automated code-reuse exploit generation
+Poster: Challenges and next steps in binary program analysis with angr
 
 ## Feasability Study
 
