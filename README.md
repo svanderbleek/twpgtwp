@@ -2,6 +2,9 @@
 
 The Working Programmer's Guide To Working Programs
 
+
+
+
 ## Feasability Study
 
 Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
@@ -61,6 +64,13 @@ If you're willing to be crazy you can get a lot done.
 #### Logicodes
 #### Interpolation based bintree
 
+### Hacking
+#### Gadgets
+#### Blocks
+#### Discovery
+#### Analysis
+#### Micro-gadgets
+
 ### Text
 #### Poplar
 #### Editing by Example
@@ -76,6 +86,8 @@ If you're willing to be crazy you can get a lot done.
 
 ### ISA
 #### SLED
+### URISC
+### Subleq
 #### SSL
 #### Sail
 #### Lem
