@@ -10,6 +10,13 @@ Sections are Types, Linking is Policy: Using the Loader Format for Expressing Pr
 Work-in-Progress: Towards a Platform to Compare Binary Parser Generators
 PROTECTING SYSTEMS FROM EXPLOITS USING LANGUAGE-THEORETIC SECURITY
 ‘Weird Machine’ Patterns
+Automated Attacker Synthesis for Distributed Protocols
+“Weird Machines” in ELF: A Spotlight on the Underappreciated Metadata
+How the ELF Ruined Christmas
+Bootstrapping Trust in a “Trusted” Virtualized Platform
+A Logic for Secure Stratified Systems and its Application to Containerized Systems
+Automatic extraction of x86 formal semantics from its natural language description
+DSV: Disassembly Soundness Validation withoutAssuming a Ground Truth
 
 ## Feasability Study
 
