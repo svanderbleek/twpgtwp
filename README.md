@@ -101,6 +101,8 @@ BAP: A Binary Analysis Platform
 SAIL: Static Analysis Intermediate Language with a Two-level Representation.
 Tortoise: Interactive System Configuration Repair
 Very simple Chaitin machines for concrete AIT
+Computable model discovery and high-level-programming approximations to algorithmic complexity
+Algorithmic Information Dynamics of Cellular Automata
 
 ## Binary Analysis
 
