@@ -9,6 +9,7 @@ Nail: A Practical Interface Generator for Data Formats
 Sections are Types, Linking is Policy: Using the Loader Format for Expressing Programmer Intent
 Work-in-Progress: Towards a Platform to Compare Binary Parser Generators
 PROTECTING SYSTEMS FROM EXPLOITS USING LANGUAGE-THEORETIC SECURITY
+‘Weird Machine’ Patterns
 
 ## Feasability Study
 
