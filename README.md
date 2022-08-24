@@ -110,6 +110,8 @@ Computable model discovery and high-level-programming approximations to algorith
 Algorithmic Information Dynamics of Cellular Automata
 MATAR: A Performance Portability and Productivity Implementation of Data-Oriented Design with Kokkos
 API as Curriculum: Designing High-Level API Affordances as Instructional Scaffolds
+Retroactive data structures
+Programming Languages For Interactive Computing
 
 ## Binary Analysis
 
