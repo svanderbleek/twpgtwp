@@ -7,6 +7,11 @@ The Working Programmer's Guide To Working Programs
 
 Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
 
+### Prior Work
+
+* Taming the Tarpit https://mikeinnes.io/2017/09/13/brainforth
+* Crawling out of the turing tarpit http://rolfwr.net/tarpit
+
 ## Methodology
 ### Stages
 
