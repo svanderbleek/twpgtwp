@@ -157,6 +157,10 @@ LEGION: PROGRAMMING DISTRIBUTED HETEROGENEOUS ARCHITECTURES WITH LOGICAL REGIONS
 A Bare Machine Tool to Learn System Internals in Computer Science Education
 A Bare PC Text Based Browser
 An API for Bare Machine Computing Applications
+Bit Level Types
+An embedded language for programming protocol stacks in embedded systems
+the next 700 data description languages
+type systems for system types
 
 ## Binary Analysis
 
