@@ -29,6 +29,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://github.com/area9innovation/wase
 * https://terralang.org/
 * http://umanovskis.se/files/arm-baremetal-ebook.pdf
+* https://www.atarimagazines.com/compute/issue154/60_Where_hardware_meets.php
 
 ## Methodology
 ### Stages
