@@ -33,6 +33,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://benhoyt.com/writings/mugo/
 * http://wiki.c2.com/?RethinkingCompilerDesign
 * http://wiki.c2.com/?SynthesisOs
+* https://www.coreboot.org/
 
 ## Methodology
 ### Stages
