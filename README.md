@@ -136,6 +136,19 @@ A DSL for Resource Checking Using FSA-Driven Symbolic Execution
 The IDE as a Scriptable Information System
 Benzo: Reflective Glue for Low-level Programming
 Sista: a Metacircular Architecture for Runtime Optimisation Persistence
+A Golden Age of Hardware Description Languages
+Tydi an open specification for complex data structures over hardware streams
+Dataflow Hardware Design for Big Data Acceleration Using Typed Interfaces
+fault: A Python Embedded Domain-Specific Language for Metaprogramming Portable Hardware Verification Components
+Wire sorts: A language abstraction for safe hardware composition
+Programming Language Techniques for Improving ISA and HDL Design
+Twine: A Chisel Extension for Component-Level Heterogeneous Design
+Reticle: A Virtual Machine for Programming Modern FPGAs
+Implicit State Machines
+SPIRAL: Extreme performance portability
+Stateful dataflow multigraphs: A data-centric model for performance portability on heterogeneous architectures
+PALMED: Throughput Characterization for Superscalar Architectures - Extended Version
+LEGION: PROGRAMMING DISTRIBUTED HETEROGENEOUS ARCHITECTURES WITH LOGICAL REGIONS
 
 
 ## Binary Analysis
