@@ -30,6 +30,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://terralang.org/
 * http://umanovskis.se/files/arm-baremetal-ebook.pdf
 * https://www.atarimagazines.com/compute/issue154/60_Where_hardware_meets.php
+* https://benhoyt.com/writings/mugo/
 
 ## Methodology
 ### Stages
