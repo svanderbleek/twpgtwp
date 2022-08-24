@@ -15,6 +15,9 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * https://wiki.osdev.org/Main_Page
 * https://en.wikipedia.org/wiki/Crt0
 * http://stephane.ducasse.free.fr/TopicsVirtual%20Machines.html
+* https://medc.mark.dev/
+* https://gitlab.com/nakst/essence
+* https://github.com/vendu/Ukko
 
 ## Methodology
 ### Stages
