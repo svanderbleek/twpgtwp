@@ -26,6 +26,7 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * https://handmade.network/
 * https://github.com/area9innovation/wase
 * https://terralang.org/
+* http://umanovskis.se/files/arm-baremetal-ebook.pdf
 
 ## Methodology
 ### Stages
