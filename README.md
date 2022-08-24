@@ -116,6 +116,7 @@ API as Curriculum: Designing High-Level API Affordances as Instructional Scaffol
 Retroactive data structures
 Programming Languages For Interactive Computing
 Bootstrap-Based Language Development: Turning an existing VM into a polyglot VM
+A Bootstrapping Infrastructure to Build and Extend Pharo-Like Languages
 
 ## Binary Analysis
 
