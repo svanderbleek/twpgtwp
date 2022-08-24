@@ -118,6 +118,7 @@ Programming Languages For Interactive Computing
 Bootstrap-Based Language Development: Turning an existing VM into a polyglot VM
 A Bootstrapping Infrastructure to Build and Extend Pharo-Like Languages
 Bridging the Gap between Machine and Language using First-Class Building Blocks
+IDE-Independent Program Comprehension Tools via Source File Overwriting
 
 ## Binary Analysis
 
