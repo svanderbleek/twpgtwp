@@ -19,6 +19,7 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * https://github.com/scanlime/metalkit
 * https://futhark-lang.org/
 * https://theartofmachinery.com/2017/06/04/what_is_the_d_runtime.html
+* http://www.ganssle.com/tem-back.htm
 
 ## Methodology
 ### Stages
