@@ -161,7 +161,11 @@ Bit Level Types
 An embedded language for programming protocol stacks in embedded systems
 the next 700 data description languages
 type systems for system types
- A Calculus for Describing Ad Hoc Data Formats
+A Calculus for Describing Ad Hoc Data Formats
+Discovering Nontrivial and Functional Behavior in Register Machines
+Superoptimizer: A look at the smallest program
+Synthesis: An Efficient Implementation of Fundamental Operating System Services
+Instruction Selection Principles, Methods, and Applications
 
 ## Binary Analysis
 
