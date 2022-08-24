@@ -115,6 +115,7 @@ MATAR: A Performance Portability and Productivity Implementation of Data-Oriente
 API as Curriculum: Designing High-Level API Affordances as Instructional Scaffolds
 Retroactive data structures
 Programming Languages For Interactive Computing
+Bootstrap-Based Language Development: Turning an existing VM into a polyglot VM
 
 ## Binary Analysis
 
