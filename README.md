@@ -24,6 +24,7 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * https://belkarx.github.io/posts/finished/Low-levelAtypical%20Technology%20Fundamentals.html
 * https://github.com/LowLevelJam/LLJam0001/tree/main/submissions/via_c3_ais_asm
 * https://handmade.network/
+* https://github.com/area9innovation/wase
 
 ## Methodology
 ### Stages
