@@ -168,6 +168,7 @@ Discovering Nontrivial and Functional Behavior in Register Machines
 Superoptimizer: A look at the smallest program
 Synthesis: An Efficient Implementation of Fundamental Operating System Services
 Instruction Selection Principles, Methods, and Applications
+Automatic Derivation of Compiler Machine Descriptions
 
 ## Binary Analysis
 
