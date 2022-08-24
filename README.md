@@ -7,6 +7,8 @@ The Working Programmer's Guide To Working Programs
 
 Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
 
+The goal is not to teach contemporary bare metal practices, but to approach any future or past system with proven methodology for bootstrapping a development environment on hardware.
+
 ### Prior Work
 
 * Taming the Tarpit https://mikeinnes.io/2017/09/13/brainforth
