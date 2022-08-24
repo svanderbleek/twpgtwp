@@ -161,6 +161,7 @@ Bit Level Types
 An embedded language for programming protocol stacks in embedded systems
 the next 700 data description languages
 type systems for system types
+ A Calculus for Describing Ad Hoc Data Formats
 
 ## Binary Analysis
 
