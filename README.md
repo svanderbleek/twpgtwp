@@ -149,7 +149,9 @@ SPIRAL: Extreme performance portability
 Stateful dataflow multigraphs: A data-centric model for performance portability on heterogeneous architectures
 PALMED: Throughput Characterization for Superscalar Architectures - Extended Version
 LEGION: PROGRAMMING DISTRIBUTED HETEROGENEOUS ARCHITECTURES WITH LOGICAL REGIONS
-
+A Bare Machine Tool to Learn System Internals in Computer Science Education
+A Bare PC Text Based Browser
+An API for Bare Machine Computing Applications
 
 ## Binary Analysis
 
