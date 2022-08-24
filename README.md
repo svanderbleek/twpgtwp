@@ -13,6 +13,7 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * Crawling out of the turing tarpit http://rolfwr.net/tarpit
 * https://bootstrapping.miraheze.org/wiki/Main_Page
 * https://wiki.osdev.org/Main_Page
+* https://en.wikipedia.org/wiki/Crt0
 
 ## Methodology
 ### Stages
