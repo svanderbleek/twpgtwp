@@ -23,6 +23,7 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * wizard code https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf
 * https://belkarx.github.io/posts/finished/Low-levelAtypical%20Technology%20Fundamentals.html
 * https://github.com/LowLevelJam/LLJam0001/tree/main/submissions/via_c3_ais_asm
+* https://handmade.network/
 
 ## Methodology
 ### Stages
