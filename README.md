@@ -21,6 +21,7 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * https://theartofmachinery.com/2017/06/04/what_is_the_d_runtime.html
 * http://www.ganssle.com/tem-back.htm
 * wizard code https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf
+* https://belkarx.github.io/posts/finished/Low-levelAtypical%20Technology%20Fundamentals.html
 
 ## Methodology
 ### Stages
