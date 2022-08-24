@@ -14,6 +14,7 @@ Scenario: You are given an arbitrary computation device with input and output ca
 * https://bootstrapping.miraheze.org/wiki/Main_Page
 * https://wiki.osdev.org/Main_Page
 * https://en.wikipedia.org/wiki/Crt0
+* http://stephane.ducasse.free.fr/TopicsVirtual%20Machines.html
 
 ## Methodology
 ### Stages
@@ -120,6 +121,11 @@ A Bootstrapping Infrastructure to Build and Extend Pharo-Like Languages
 Bridging the Gap between Machine and Language using First-Class Building Blocks
 IDE-Independent Program Comprehension Tools via Source File Overwriting
 Supporting Source Code Annotations with Metadata-Aware Development Environment
+A DSL for Resource Checking Using FSA-Driven Symbolic Execution
+The IDE as a Scriptable Information System
+Benzo: Reflective Glue for Low-level Programming
+Sista: a Metacircular Architecture for Runtime Optimisation Persistence
+
 
 ## Binary Analysis
 
