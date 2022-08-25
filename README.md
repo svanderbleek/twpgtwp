@@ -177,6 +177,12 @@ How Low Can You Go? Recommendations for Hardware-Supported Minimal TCB Code Exec
 Lightweight Bare-metal Stateful Firewall
 OSLO: Improving the security of Trusted Computing 
 Tiny-CFA: A Minimalistic Approach for Control-Flow Attestation Using Verified Proofs of Execution
+DIALED: Data Integrity Attestation for Low-end Embedded Devices
+BYOTEE: Towards Building Your Own Trusted Execution Environments Using FPGA
+Mind the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution Architectures
+GAROTA: Generalized Active Root-Of-Trust Architecture
+ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems
+DITES: A Lightweight and Flexible Dual-Core Isolated Trusted Execution SoC Based on RISC-V
 
 ## Binary Analysis
 
