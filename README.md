@@ -189,6 +189,8 @@ The Pintos Instructional Operating System Kernel
 BabyOS: a fresh start
 MiniOS: An Instructional Platform for Teaching Operating Systems Projects
 A Scalable Operating System Experiment Platform Supporting Learning Behavior Analysis
+Fast Privileged Function Calls
+Direct Inter-Process Communication (dIPC): Repurposing the CODOMs Architecture to Accelerate IPC
 
 ## Binary Analysis
 
