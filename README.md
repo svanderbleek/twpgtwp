@@ -39,6 +39,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://sqlite.org/src/doc/trunk/doc/lemon.html
 * https://github.com/udem-dlteam/ribbit
 * https://github.com/cksystemsteaching/selfie
+* https://emeryberger.com/teaching/grad-systems/
 
 ## Methodology
 ### Stages
