@@ -176,6 +176,7 @@ APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Fu
 How Low Can You Go? Recommendations for Hardware-Supported Minimal TCB Code Execution
 Lightweight Bare-metal Stateful Firewall
 OSLO: Improving the security of Trusted Computing 
+Tiny-CFA: A Minimalistic Approach for Control-Flow Attestation Using Verified Proofs of Execution
 
 ## Binary Analysis
 
