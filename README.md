@@ -38,6 +38,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://www.usenix.org/legacy/event/wiov08/tech/full_papers/xia/xia_html/
 * https://sqlite.org/src/doc/trunk/doc/lemon.html
 * https://github.com/udem-dlteam/ribbit
+* https://github.com/cksystemsteaching/selfie
 
 ## Methodology
 ### Stages
