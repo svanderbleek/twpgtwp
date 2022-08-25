@@ -183,6 +183,7 @@ Mind the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execut
 GAROTA: Generalized Active Root-Of-Trust Architecture
 ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems
 DITES: A Lightweight and Flexible Dual-Core Isolated Trusted Execution SoC Based on RISC-V
+TR-FSM: Transition-based Reconfigurable Finite State Machine
 
 ## Binary Analysis
 
