@@ -35,6 +35,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://wiki.c2.com/?SynthesisOs
 * https://www.coreboot.org/
 * http://menuetos.net/
+* https://www.usenix.org/legacy/event/wiov08/tech/full_papers/xia/xia_html/
 
 ## Methodology
 ### Stages
@@ -184,6 +185,10 @@ GAROTA: Generalized Active Root-Of-Trust Architecture
 ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems
 DITES: A Lightweight and Flexible Dual-Core Isolated Trusted Execution SoC Based on RISC-V
 TR-FSM: Transition-based Reconfigurable Finite State Machine
+The Pintos Instructional Operating System Kernel
+BabyOS: a fresh start
+MiniOS: An Instructional Platform for Teaching Operating Systems Projects
+A Scalable Operating System Experiment Platform Supporting Learning Behavior Analysis
 
 ## Binary Analysis
 
