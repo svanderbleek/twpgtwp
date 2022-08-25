@@ -171,6 +171,7 @@ Superoptimizer: A look at the smallest program
 Synthesis: An Efficient Implementation of Fundamental Operating System Services
 Instruction Selection Principles, Methods, and Applications
 Automatic Derivation of Compiler Machine Descriptions
+VRASED: A Verified Hardware/Software Co-Design for Remote Attestation
 
 ## Binary Analysis
 
