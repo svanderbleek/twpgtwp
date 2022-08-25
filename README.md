@@ -173,6 +173,7 @@ Instruction Selection Principles, Methods, and Applications
 Automatic Derivation of Compiler Machine Descriptions
 VRASED: A Verified Hardware/Software Co-Design for Remote Attestation
 APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Full Software Compromise
+How Low Can You Go? Recommendations for Hardware-Supported Minimal TCB Code Execution 
 
 ## Binary Analysis
 
