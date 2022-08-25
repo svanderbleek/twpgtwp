@@ -36,6 +36,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://www.coreboot.org/
 * http://menuetos.net/
 * https://www.usenix.org/legacy/event/wiov08/tech/full_papers/xia/xia_html/
+* https://sqlite.org/src/doc/trunk/doc/lemon.html
 
 ## Methodology
 ### Stages
