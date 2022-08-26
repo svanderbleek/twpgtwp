@@ -51,6 +51,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://github.com/michaelchisari/scrwl
 * https://benhoyt.com/writings/hash-table-in-c/
 * https://pages.cs.wisc.edu/~remzi/OSTEP/
+* https://www.inkandswitch.com/
 
 ## Methodology
 ### Stages
