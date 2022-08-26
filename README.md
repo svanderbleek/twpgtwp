@@ -2,6 +2,9 @@
 
 The Working Programmer's Guide To Working Programs
 
+## Standing on Shoulders
+
+I found some good ones.
 
 ## Feasability Study
 
@@ -202,6 +205,7 @@ Direct Inter-Process Communication (dIPC): Repurposing the CODOMs Architecture t
 Packrat Parsing:
 Simple, Powerful, Lazy, Linear Time
 Rewrite rules for the Disciplined Disciple Compiler
+The computational origin of representation
 
 ## Binary Analysis
 
