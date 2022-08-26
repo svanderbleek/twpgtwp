@@ -277,6 +277,8 @@ Micro Virtual Machines: A Solid Foundation for Managed Language Implementation
 A Foundation for the Development of Programming Languages for Real-Time Systems
 Designing a Low-Level Virtual Machine for Implementing Real-Time Managed Languages
 An Efficient Implementation of a Micro Virtual Machine
+Lowcode extending Pharo with C Types to Improve Performance
+Garbage Collection and Eciency in Dynamic Metacircular Runtimes
 
 ## Binary Analysis
 
