@@ -118,6 +118,9 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/15-Runtime-Environments.pdf
 * http://the-knowledge.org/en-gb/
 * https://thesurvivalmom.com/wp-content/uploads/2015/03/Beyond-Collapse.pdf
+* https://frida.re/
+* https://github.com/NationalSecurityAgency/ghidra
+* http://lock.cmpxchg8b.com/symbols.html
 
 ## Methodology
 ### Stages
