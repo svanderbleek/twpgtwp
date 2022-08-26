@@ -201,6 +201,7 @@ Fast Privileged Function Calls
 Direct Inter-Process Communication (dIPC): Repurposing the CODOMs Architecture to Accelerate IPC
 Packrat Parsing:
 Simple, Powerful, Lazy, Linear Time
+Rewrite rules for the Disciplined Disciple Compiler
 
 ## Binary Analysis
 
