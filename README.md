@@ -211,6 +211,12 @@ Simple, Powerful, Lazy, Linear Time
 Rewrite rules for the Disciplined Disciple Compiler
 The computational origin of representation
 OPEN-ENDED EVOLUTION AS AN EMERGENT SELF-ORGANIZING SEARCH PROCESS
+Numeral Systems Across Languages Support Efficient Communication
+Let's talk (efficiently) about us: Person systems achieve near-optimal compression
+Putting Prototypes in Place
+Inference and the structure of concepts
+The mental representation of universal quantifiers
+Code generation for a one register machine
 
 ## Binary Analysis
 
