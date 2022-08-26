@@ -64,6 +64,9 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://hundredrabbits.itch.io/left
 * https://100r.co/site/uxn.html
 * https://wiki.xxiivv.com/site/potato.html
+* https://permacomputing.net/
+* https://sr.ht/~bctnry/chifir/
+* http://sw.ccs.bcs.org/CAMiLEON/dh/ep5.html
 
 ## Methodology
 ### Stages
@@ -233,6 +236,7 @@ Code generation for a one register machine
 Introducing conviviality as a new paradigm for interactions among IT objects
 STEPS Toward The Reinvention of Programming
 Bicycles for the mind have to be see-through
+UVC: A Universal Virtual Computer for Long-term Preservation of Digital Information
 
 ## Binary Analysis
 
