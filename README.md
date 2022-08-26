@@ -90,6 +90,9 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://damaged.bleu255.com/Small_Technology/
 * https://damaged.bleu255.com/Liberatory_Technology/
 * https://suckless.org/
+* https://2022.programming-conference.org/home/MoreVMs-2022
+* https://2022.programming-conference.org/home/salon-2022
+* https://boxer-project.github.io/
 
 ## Methodology
 ### Stages
@@ -280,6 +283,7 @@ An Efficient Implementation of a Micro Virtual Machine
 Lowcode extending Pharo with C Types to Improve Performance
 Garbage Collection and Efficiency in Dynamic Metacircular Runtimes
 Extending an In-Browser C Interpreter With an Abstracted Model of the Memory 
+Spreadsheets as Notational Environment for Paper Weaving
 
 ## Binary Analysis
 
