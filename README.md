@@ -100,6 +100,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://www.searle.wales/
 * https://github.com/xinu-os/xinu
 * http://rbjones.com/rbjpub/rbjcv/papers/wp32.htm
+* https://wiki.xxiivv.com/site/paper_computing.html
 
 ## Methodology
 ### Stages
@@ -291,6 +292,7 @@ Lowcode extending Pharo with C Types to Improve Performance
 Garbage Collection and Efficiency in Dynamic Metacircular Runtimes
 Extending an In-Browser C Interpreter With an Abstracted Model of the Memory 
 Spreadsheets as Notational Environment for Paper Weaving
+Electronic Popables: Exploring Paper-Based Computing through an Interactive Pop-Up Book 
 
 ## Binary Analysis
 
