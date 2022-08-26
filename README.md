@@ -50,6 +50,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://canonical.org/~kragen/binary-relations
 * https://github.com/michaelchisari/scrwl
 * https://benhoyt.com/writings/hash-table-in-c/
+* https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 ## Methodology
 ### Stages
