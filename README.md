@@ -57,6 +57,13 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://twofishergourmetseafood.com/
 * https://github.com/akkartik/mu
 * https://feenk.com/
+* https://instadeq.com/blog/posts/no-code-history-sketchpad-a-man-machine-graphical-communication-system-1963/
+* https://www.drmaciver.com/2016/05/the-derivative-as-an-alternative-minimal-deterministic-automaton/
+* http://arclanguage.org/
+* https://100r.co/site/nasu.html
+* https://hundredrabbits.itch.io/left
+* https://100r.co/site/uxn.html
+* https://wiki.xxiivv.com/site/potato.html
 
 ## Methodology
 ### Stages
