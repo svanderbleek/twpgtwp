@@ -293,6 +293,9 @@ Garbage Collection and Efficiency in Dynamic Metacircular Runtimes
 Extending an In-Browser C Interpreter With an Abstracted Model of the Memory 
 Spreadsheets as Notational Environment for Paper Weaving
 Electronic Popables: Exploring Paper-Based Computing through an Interactive Pop-Up Book 
+Microcontrollers as material: crafting circuits with paper, conductive ink, electronic components, and an "untoolkit"
+Programming the shape-shifting of flat soft matter
+Mechanical metamaterials: a state of the art
 
 ## Binary Analysis
 
