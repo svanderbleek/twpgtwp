@@ -40,6 +40,9 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://github.com/udem-dlteam/ribbit
 * https://github.com/cksystemsteaching/selfie
 * https://emeryberger.com/teaching/grad-systems/
+* https://homepage.cs.uiowa.edu/~dwjones/syssoft/notes/
+* http://cap-lore.com/Languages/lambda/new.html#claim
+* http://tinlizzie.org/ometa/
 
 ## Methodology
 ### Stages
