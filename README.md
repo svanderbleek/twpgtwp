@@ -262,7 +262,8 @@ Bicycles for the mind have to be see-through
 UVC: A Universal Virtual Computer for Long-term Preservation of Digital Information
 VMKit: a Substrate for Managed Runtime Environments
 Snippets: Taking the High Road to a Low Level
-Z-Rays: Divide Arrays and Conquer Speed and Flexibility ∗
+Z-Rays: Divide Arrays and Conquer Speed and Flexibility
+Continuously Measuring Critical Section Pressure with the Free-Lunch Profiler
 
 ## Binary Analysis
 
