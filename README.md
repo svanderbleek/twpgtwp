@@ -272,6 +272,11 @@ Specification-Driven Conformance Checking for Virtual/Silicon Devices using Muta
 A Novel Concolic Execution Approach on Embedded Device
 Embedded Fuzzing: a Review of Challenges, Tools, and Solutions
 Hop, Skip, & Jump Practical On-Stack Replacement for a Cross-Platform Language-Neutral VM
+On-Stack Replacement for Program Generators and Source-to-Source Compilers
+Micro Virtual Machines: A Solid Foundation for Managed Language Implementation
+A Foundation for the Development of Programming Languages for Real-Time Systems
+Designing a Low-Level Virtual Machine for Implementing Real-Time Managed Languages
+An Efficient Implementation of a Micro Virtual Machine
 
 ## Binary Analysis
 
