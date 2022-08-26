@@ -198,6 +198,8 @@ MiniOS: An Instructional Platform for Teaching Operating Systems Projects
 A Scalable Operating System Experiment Platform Supporting Learning Behavior Analysis
 Fast Privileged Function Calls
 Direct Inter-Process Communication (dIPC): Repurposing the CODOMs Architecture to Accelerate IPC
+Packrat Parsing:
+Simple, Powerful, Lazy, Linear Time
 
 ## Binary Analysis
 
