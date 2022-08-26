@@ -52,6 +52,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://benhoyt.com/writings/hash-table-in-c/
 * https://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://www.inkandswitch.com/
+* https://2020.programming-conference.org/home/salon-2020
 
 ## Methodology
 ### Stages
