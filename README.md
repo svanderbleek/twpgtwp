@@ -43,6 +43,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://homepage.cs.uiowa.edu/~dwjones/syssoft/notes/
 * http://cap-lore.com/Languages/lambda/new.html#claim
 * http://tinlizzie.org/ometa/
+* https://github.com/robertpfeiffer/cola
 
 ## Methodology
 ### Stages
