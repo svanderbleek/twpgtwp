@@ -67,6 +67,29 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://permacomputing.net/
 * https://sr.ht/~bctnry/chifir/
 * http://sw.ccs.bcs.org/CAMiLEON/dh/ep5.html
+* https://rosettaproject.org/disk/technology/
+* https://github.com/civboot/civboot
+* https://esoteric.codes/blog/a-programming-language-with-only-one-command-and
+* https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/
+* https://os-projects.eu/dawn-os
+* http://solarprotocol.net/
+* https://web.archive.org/web/20010625015518/http://www.nla.gov.au/padi/topics/19.html
+* https://en.wikipedia.org/wiki/CARDboard_Illustrative_Aid_to_Computation
+* https://en.wikipedia.org/wiki/Little_man_computer
+* http://www.yorku.ca/sychen/research/LMC/index.html
+* http://elearning.algonquincollege.com/coursemat/dat2343/lectures.f03/12-LMC.htm
+* https://www.cs.drexel.edu/~bls96/museum/cardiac.html
+* http://www.kaleberg.com/software/cardiac/
+* https://wimvanderbauwhede.github.io/articles/frugal-computing/
+* https://damaged.bleu255.com/Salvage_Computing/
+* https://openresearch.lsbu.ac.uk/item/8xwq2
+* https://computingwithinlimits.org/2022/
+* https://damaged.bleu255.com/Collapse_Informatics/
+* https://damaged.bleu255.com/Convivial_Computing/
+* https://damaged.bleu255.com/Low-Tech/
+* https://damaged.bleu255.com/Small_Technology/
+* https://damaged.bleu255.com/Liberatory_Technology/
+* https://suckless.org/
 
 ## Methodology
 ### Stages
@@ -237,6 +260,9 @@ Introducing conviviality as a new paradigm for interactions among IT objects
 STEPS Toward The Reinvention of Programming
 Bicycles for the mind have to be see-through
 UVC: A Universal Virtual Computer for Long-term Preservation of Digital Information
+VMKit: a Substrate for Managed Runtime Environments
+Snippets: Taking the High Road to a Low Level
+Z-Rays: Divide Arrays and Conquer Speed and Flexibility ∗
 
 ## Binary Analysis
 
