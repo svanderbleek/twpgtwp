@@ -47,6 +47,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://cap-lore.com/Languages/lambda/new.html#claim
 * http://tinlizzie.org/ometa/
 * https://github.com/robertpfeiffer/cola
+* http://canonical.org/~kragen/binary-relations
 
 ## Methodology
 ### Stages
