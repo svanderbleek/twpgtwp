@@ -264,6 +264,14 @@ VMKit: a Substrate for Managed Runtime Environments
 Snippets: Taking the High Road to a Low Level
 Z-Rays: Divide Arrays and Conquer Speed and Flexibility
 Continuously Measuring Critical Section Pressure with the Free-Lunch Profiler
+Draining the Swamp: Micro Virtual Machines as Solid Foundation for Language Development
+On-Stack Replacement, Distilled
+Scalable Concolic Testing of RTL Models
+Software/Hardware Co-Verification for Custom Instruction Set Processors
+Specification-Driven Conformance Checking for Virtual/Silicon Devices using Mutation Testing
+A Novel Concolic Execution Approach on Embedded Device
+Embedded Fuzzing: a Review of Challenges, Tools, and Solutions
+Hop, Skip, & Jump Practical On-Stack Replacement for a Cross-Platform Language-Neutral VM
 
 ## Binary Analysis
 
