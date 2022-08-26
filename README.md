@@ -114,6 +114,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://genode.org/documentation/genode-foundations/19.05/introduction/index.html
 * https://wiki.xxiivv.com/site/devlog.html
 * https://dirk-kutscher.info/publications/iceflow/
+* https://github.com/chessai/theseus
 
 ## Methodology
 ### Stages
@@ -314,7 +315,11 @@ SYNERGY: Rethinking Secure-Memory Design for Error-Correcting Memories
 The complexity of small universal Turing machines: A survey
 A Simple and Efficient Universal Reversible Turing Machine
 Concise Representations of Reversible Automata
-
+Energy-Efficient Algorithms
+Toward an Energy Efficient Language and Compiler for (Partially) Reversible Algorithms
+The power of being explicit: demystifying work, heat, and free energy in the physics of computation
+Information Effects
+Theseus: A High Level Language for Reversible Computing
 
 ## Binary Analysis
 
