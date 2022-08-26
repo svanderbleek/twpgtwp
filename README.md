@@ -219,6 +219,7 @@ Putting Prototypes in Place
 Inference and the structure of concepts
 The mental representation of universal quantifiers
 Code generation for a one register machine
+Introducing conviviality as a new paradigm for interactions among IT objects
 
 ## Binary Analysis
 
