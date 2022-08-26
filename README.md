@@ -53,6 +53,10 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://www.inkandswitch.com/
 * https://2020.programming-conference.org/home/salon-2020
+* https://www.programmer-books.com/wp-content/uploads/2019/04/Low-Level-Programming.pdf
+* http://twofishergourmetseafood.com/
+* https://github.com/akkartik/mu
+* https://feenk.com/
 
 ## Methodology
 ### Stages
@@ -220,6 +224,8 @@ Inference and the structure of concepts
 The mental representation of universal quantifiers
 Code generation for a one register machine
 Introducing conviviality as a new paradigm for interactions among IT objects
+STEPS Toward The Reinvention of Programming
+Bicycles for the mind have to be see-through
 
 ## Binary Analysis
 
