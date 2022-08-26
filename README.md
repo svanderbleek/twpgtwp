@@ -115,6 +115,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://wiki.xxiivv.com/site/devlog.html
 * https://dirk-kutscher.info/publications/iceflow/
 * https://github.com/chessai/theseus
+* https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/15-Runtime-Environments.pdf
 
 ## Methodology
 ### Stages
@@ -320,6 +321,13 @@ Toward an Energy Efficient Language and Compiler for (Partially) Reversible Algo
 The power of being explicit: demystifying work, heat, and free energy in the physics of computation
 Information Effects
 Theseus: A High Level Language for Reversible Computing
+Starting from a Clean Slate: Creating a Top-down Parseable Runtime
+Staged computation: the technique you didn’t know you were using
+printr: Exploring the Potential of Paper-based Tools in Low-resource Settings
+PaperWeb: Paper-triggered Web Interactions
+CAM: A Mobile Interaction Framework for Digitizing Paper Processes in the Developing World
+DE S I G N I N G I N T E R A C T I O N S T H AT C O M B I NE P E N , PAP E R , A N D C O M P U T E R
+Computing with words and decision making
 
 ## Binary Analysis
 
