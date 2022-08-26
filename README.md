@@ -4,7 +4,7 @@ The Working Programmer's Guide To Working Programs
 
 ## Standing on Shoulders
 
-I found some good ones.
+I found some good ones. As a synthesizer I combine formal methods, algorithmic information theory, systems programming, hobbyist computing, etc. Kill me please.
 
 ## Feasability Study
 
