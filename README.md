@@ -102,6 +102,18 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://rbjones.com/rbjpub/rbjcv/papers/wp32.htm
 * https://wiki.xxiivv.com/site/paper_computing.html
 * https://highlowtech.org/
+* https://esolangs.org/wiki/Dependently_Typed_Binary_Lambda_Calculus
+* https://github.com/AHartNtkn/Dependent-Binary-Lambda-Calculus
+* https://csvoss.com/circuit-notation-lambda-calculus
+* http://www.golfscript.com/lam/
+* https://tanami.org/archive/Most%20functional%20ioccc%20binary%20lambda%20calculus.html
+* https://www.fstar-lang.org/tutorial/book/part2/part2.html
+* http://www.willdonnelly.net/blog/2020-10-25-compact-church-data/
+* http://unikernel.org/projects/
+* https://github.com/rumpkernel/rumprun
+* https://genode.org/documentation/genode-foundations/19.05/introduction/index.html
+* https://wiki.xxiivv.com/site/devlog.html
+* https://dirk-kutscher.info/publications/iceflow/
 
 ## Methodology
 ### Stages
@@ -297,6 +309,12 @@ Electronic Popables: Exploring Paper-Based Computing through an Interactive Pop-
 Microcontrollers as material: crafting circuits with paper, conductive ink, electronic components, and an "untoolkit"
 Programming the shape-shifting of flat soft matter
 Mechanical metamaterials: a state of the art
+Hybrid Paper-Digital Interfaces: A Systematic Literature Review
+SYNERGY: Rethinking Secure-Memory Design for Error-Correcting Memories
+The complexity of small universal Turing machines: A survey
+A Simple and Efficient Universal Reversible Turing Machine
+Concise Representations of Reversible Automata
+
 
 ## Binary Analysis
 
