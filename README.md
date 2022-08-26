@@ -101,6 +101,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://github.com/xinu-os/xinu
 * http://rbjones.com/rbjpub/rbjcv/papers/wp32.htm
 * https://wiki.xxiivv.com/site/paper_computing.html
+* https://highlowtech.org/
 
 ## Methodology
 ### Stages
