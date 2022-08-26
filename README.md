@@ -93,6 +93,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://2022.programming-conference.org/home/MoreVMs-2022
 * https://2022.programming-conference.org/home/salon-2022
 * https://boxer-project.github.io/
+* http://homepage.cs.uiowa.edu/~dwjones/syssoft/notes/01intro.html
 
 ## Methodology
 ### Stages
