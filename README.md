@@ -116,6 +116,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://dirk-kutscher.info/publications/iceflow/
 * https://github.com/chessai/theseus
 * https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/15-Runtime-Environments.pdf
+* http://the-knowledge.org/en-gb/
 
 ## Methodology
 ### Stages
