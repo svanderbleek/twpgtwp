@@ -210,6 +210,7 @@ Packrat Parsing:
 Simple, Powerful, Lazy, Linear Time
 Rewrite rules for the Disciplined Disciple Compiler
 The computational origin of representation
+OPEN-ENDED EVOLUTION AS AN EMERGENT SELF-ORGANIZING SEARCH PROCESS
 
 ## Binary Analysis
 
