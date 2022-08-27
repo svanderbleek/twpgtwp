@@ -346,6 +346,8 @@ Definitional Interpreters for Higher-Order Programming Languages
 Definitional Interpreters Revisted
 BinRec: Dynamic Binary Lifting and Recompilation
 Optimization of dynamic languages using hierarchical layering of virtual machines
+A Data-Oriented (and Beyond) Network Architecture
+An association-based model of dynamic behaviour
 
 ## Binary Analysis
 
