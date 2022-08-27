@@ -126,6 +126,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://web.archive.org/web/20090106212556/http://lists.canonical.org/pipermail/kragen-hacks/2007-February/000449.html
 * http://www.andreadrian.de/tbng/
 * https://web.archive.org/web/20161022180354/http://vpri.org/html/work/ifnct.htm
+* https://github.com/harc/ohm
 
 ## Methodology
 ### Stages
