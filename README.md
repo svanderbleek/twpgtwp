@@ -145,6 +145,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://borisvassilev.github.io/lir/
 * http://web.cecs.pdx.edu/~sheard/Omega/index.html
 * http://manticore.cs.uchicago.edu/
+* https://plancomps.csle.cs.rhul.ac.uk/
 
 ## Methodology
 ### Stages
@@ -431,6 +432,43 @@ Manticore: A heterogeneous parallel language
 From Folklore to Fact: Comparing Implementations of Stacks and Continuations
 The Manticore runtime model
 ABSTRACTION, VISUALISATION AND GRAPHICAL PROOF 
+Defunctionalized Interpreters for Call-by-Need Evaluation
+Deriving a lazy abstract machine.
+A portable mechanism for thread persistence and migration.
+Mirrors: Design principles for meta-level facilities of object-oriented programing languages
+Dynamic typing for distributed programming in polymorphic languages
+On inter-deriving small-step and big-step semantics: A case study for storeless call-by-need evaluation
+refocusing in reducation semantics
+Refunctionalization at work
+A systematic derivation of the STG machine verified in Coq
+Correct and optimal implementations of recursion in a simple programming language
+The revised report on the syntactic theories of sequential control and state
+On graph rewriting, reduction and evaluation
+A study of syntactic and semantic artifacts and its application to lambda definability, strong normalization, and weak normalization in the presence of state
+A functional correspondence between call-by-need evaluators and lazy abstract machines
+A syntactic correspondence between context-sensitive calculi and abstract machines
+Three syntactic theories for combinatory graph reduction
+The dynamic Geometry of Interaction machine: a token-guided graph rewriter
+Efficient implementation of evaluation strategies via token-guided graph rewriting
+Cactus environment machine
+TIM: A simple, lazy abstract machine to execute supercombinators.
+Abstract machines for programming language implementation
+TRAM: An abstract machine for order-sorted conditional term rewriting systems
+Operational Semantics with Hierarchical Abstract Syntax Graphs
+The Machinery of Interaction
+The weak lambda calculus as a reasonable machine
+Computation by interaction for spacebounded functional programming
+Game Semantics & Abstract Machines
+Local and asynchronous beta-reduction
+Reversible, irreversible and optimal lambda-machines
+Parsimonious Types and Nonuniform Computation
+On the Relation of Interaction Semantics to Continuations and Defunctionalization
+Functional Abstract Machine 
+The Problem of Space Invariance for Sequential Machines.
+The design of Hume: a high-level language for the real-time embedded systems domain
+Juniper: A Functional Reactive Programming Language for the Arduino
+Distributed REScala: An Update Algorithm for Distributed Reactive Programming
+Interactive Programs in Dependent Type Theory
 
 ## Binary Analysis
 
