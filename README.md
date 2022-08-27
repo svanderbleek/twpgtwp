@@ -124,6 +124,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html
 * https://web.archive.org/web/20081120040312/http://lists.canonical.org/pipermail/kragen-hacks/2007-February/000450.html
 * https://web.archive.org/web/20090106212556/http://lists.canonical.org/pipermail/kragen-hacks/2007-February/000449.html
+* http://www.andreadrian.de/tbng/
 
 ## Methodology
 ### Stages
