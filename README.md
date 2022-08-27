@@ -6,6 +6,10 @@ The Working Programmer's Guide To Working Programs
 
 Truly portable computation.
 
+## Methodology
+
+From boot develop a system for exploratory computation. The idea is to rebuild computer science from scratch. The winning technique will enable the most productive bootstrapping.
+
 ## Feasability Study
 
 Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
@@ -410,6 +414,10 @@ LibrettOS: A Dynamically Adaptable Multiserver-Library OS
 Memory-Optimality for Non-Blocking Containers
 BBQ: A Block-based Bounded Queue for Exchanging Data and Profiling
 A Generalized Modality for Recursion
+A general framework for combining diagrammatic and symbolic problem solving
+Is Universal Computation a Myth?
+Automated Theorem Proving in Euler Diagram Systems
+Speedith A reasoner for spider diagrams
 
 ## Binary Analysis
 
