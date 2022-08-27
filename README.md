@@ -146,6 +146,8 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://web.cecs.pdx.edu/~sheard/Omega/index.html
 * http://manticore.cs.uchicago.edu/
 * https://plancomps.csle.cs.rhul.ac.uk/
+* https://uoycs-plasma.github.io/GP2/
+* https://github.com/IMP1/blossom
 
 ## Methodology
 ### Stages
@@ -477,6 +479,32 @@ MAAN: A Multi-Attribute Addressable Network for Grid Information Services
 A SURVEY AND COMPARISON OF PEER-TO-PEER OVERLAY NETWORK SCHEMES
 Tapestry: A Resilient Global-scale Overlay for Service Deployment
 Multiparty Computation, an Introduction
+How to Play any Mental Game or A Completeness Theorem for Protocols with Honest Majority
+Minimal Complete Primitives for Secure Multi-party Computation
+Viaduct An Extensible, Optimizing Compiler for Secure Distributed Programs
+TOWARDS PERFORMANCE PORTABLE GRAPH ALGORITHMS
+LogP: Towards a Realistic Model of Parallel Computation
+DARE: High-Performance State Machine Replication on RDMA Networks
+A Divide and Conquer Algorithm for DAG Scheduling under Power Constraints
+Cacheap: Portable and Collaborative I/O Optimization for Graph Processing
+Portable High-Performance Programs
+a portable software support system for irregular computations
+Recursive machines and computing technologies
+Logic circuits from zero forcing
+Object Graph Rewriting: An Experimental Parallel Implementation
+Dactl: An Experimental Graph Rewriting Language
+Implementing concurrent logic and functional languages in Dactl
+Janus: a step towards distributed constraint programming,
+MONSTR: term graph rewriting for parallel machines
+The flagship parallel machine
+Concurrent constraint programming languages
+Alice – a multiprocessor reduction machine for the parallel evaluation of applicative languages
+GRIP – a high performance architecture for parallel graph reduction
+Efficient Graph Rewriting
+Rooted graph programs
+Verification of graph programs
+GP 2: efficient implementation of a graph programming language
+Towards a Navigational Logic for Graphical Structures 
 
 ## Binary Analysis
 
