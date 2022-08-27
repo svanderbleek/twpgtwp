@@ -378,6 +378,38 @@ LAPD: Language-Agnostic Program Database
 Type-Safe, Self Inspecting Code
 Meta-Programming with Typed Object-language. Representations
 Type-level Computation Using Narrowing in Ωmega.
+A Simple Library Implementation of Binary Sessions
+A message-passing interpretation of adjoint logic
+Resource-Aware Session Types for Digital Contracts
+Session Types with Arithmetic Refinements and Their Application to Work Analysis
+RAST: A LANGUAGE FOR RESOURCE-AWARE SESSION TYPES
+Two decades of automatic amortized resource analysis
+Type-Based Amortized Resource Analysis with Integers and Arrays
+Explicitly Recursive Grammar Combinators
+Scan Grammars: Parallel Attribute Evaluation Via Data-Parallelism
+Implementing an Embedded Compiler using Program
+Transformation Rules
+Fixing Idioms A recursion primitive for applicative DSLs
+Abstract syntax graphs for DSLs
+A correspondence between type checking via reduction and type checking via evaluation 
+From type checking by recursive descent to type checking with an abstract machine 
+Certificates for incremental type checking
+A Logical Correspondence between Natural Semantics and Abstract Machines
+The Power of Simple Tabulation Hashing
+Hash Tables in Logic Programming
+Hash Tables for Embedded and Real-time systems 
+A Real-Time Distributed Hash Table
+Improving System Predictability and Performance via Hardware Accelerated Data Structures
+Shared Hardware Data Structures for Hard Real-Time Systems
+Correct and Efficient Bounded FIFO Queues
+A Scalable, Portable, and Memory-Efficient Lock-Free FIFO Queue
+A synchronous functional language with integer clocks
+COATCheck: Verifying Memory Ordering at the Hardware-OS Interface
+Using Elimination to Implement Scalable and Lock-Free FIFO Queues
+LibrettOS: A Dynamically Adaptable Multiserver-Library OS
+Memory-Optimality for Non-Blocking Containers
+BBQ: A Block-based Bounded Queue for Exchanging Data and Profiling
+A Generalized Modality for Recursion
 
 ## Binary Analysis
 
