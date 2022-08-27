@@ -469,6 +469,9 @@ The design of Hume: a high-level language for the real-time embedded systems dom
 Juniper: A Functional Reactive Programming Language for the Arduino
 Distributed REScala: An Update Algorithm for Distributed Reactive Programming
 Interactive Programs in Dependent Type Theory
+A Distributed Processing Platform With Reconfigurable Autonomous Nodes 
+Decision strategies for a P2P computing system
+DisCoP: A P2P Framework for Managing and Searching Computing Markets
 
 ## Binary Analysis
 
