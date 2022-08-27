@@ -2,15 +2,13 @@
 
 The Working Programmer's Guide To Working Programs
 
-## Standing on Shoulders
-
-I found some good ones. As a synthesizer I combine formal methods, algorithmic information theory, systems programming, hobbyist computing, etc. Kill me please.
-
 ## Feasability Study
 
 Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
 
-The goal is not to teach contemporary bare metal practices, but to approach any future or past system with proven methodology for bootstrapping a development environment on hardware.
+The goal is not to teach contemporary bare machine practices, but to approach any future or past system with proven methodology for bootstrapping a development environment on hardware.
+
+## Plan
 
 ### Prior Work
 
