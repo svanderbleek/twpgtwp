@@ -8,7 +8,7 @@ Truly portable computation.
 
 ## Methodology
 
-From boot develop a system for exploratory computation. The idea is to rebuild computer science from scratch. The winning technique will enable the most productive bootstrapping.
+From boot develop a system for exploratory computation. The idea is to rebuild computer science from scratch. The winning technique will enable the most productive bootstrapping. An approaite system enables arbitrary hardware, from micro controllers to pen and paper. Computations are resumable and shareable.
 
 ## Feasability Study
 
@@ -418,6 +418,7 @@ A general framework for combining diagrammatic and symbolic problem solving
 Is Universal Computation a Myth?
 Automated Theorem Proving in Euler Diagram Systems
 Speedith A reasoner for spider diagrams
+ABSTRACTION, VISUALISATION AND GRAPHICAL PROOF 
 
 ## Binary Analysis
 
