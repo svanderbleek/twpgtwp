@@ -472,6 +472,11 @@ Interactive Programs in Dependent Type Theory
 A Distributed Processing Platform With Reconfigurable Autonomous Nodes 
 Decision strategies for a P2P computing system
 DisCoP: A P2P Framework for Managing and Searching Computing Markets
+Koorde: A simple degreeoptimal distributed hash table
+MAAN: A Multi-Attribute Addressable Network for Grid Information Services
+A SURVEY AND COMPARISON OF PEER-TO-PEER OVERLAY NETWORK SCHEMES
+Tapestry: A Resilient Global-scale Overlay for
+Service Deployment
 
 ## Binary Analysis
 
