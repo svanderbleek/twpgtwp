@@ -129,6 +129,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://github.com/harc/ohm
 * https://www.piumarta.com/software/maru/maru-2.4/
 * http://www.psirp.org/
+* https://legacy.python.org/workshops/1998-11/proceedings/papers/aycock-little/aycock-little.html
 
 ## Methodology
 ### Stages
@@ -348,6 +349,11 @@ BinRec: Dynamic Binary Lifting and Recompilation
 Optimization of dynamic languages using hierarchical layering of virtual machines
 A Data-Oriented (and Beyond) Network Architecture
 An association-based model of dynamic behaviour
+Predicate Abstraction with minimum Predicates
+WYSINWYX: What You See Is Not What You eXecute
+{BYTEWEIGHT}: Learning to recognize functions in binary code
+BAP: A binary analysis platform
+BitBlaze: A new approach to computer security via binary analysis
 
 ## Binary Analysis
 
