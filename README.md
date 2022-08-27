@@ -127,6 +127,7 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * http://www.andreadrian.de/tbng/
 * https://web.archive.org/web/20161022180354/http://vpri.org/html/work/ifnct.htm
 * https://github.com/harc/ohm
+* https://www.piumarta.com/software/maru/maru-2.4/
 
 ## Methodology
 ### Stages
