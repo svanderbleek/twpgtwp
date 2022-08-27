@@ -121,6 +121,9 @@ The goal is not to teach contemporary bare metal practices, but to approach any 
 * https://frida.re/
 * https://github.com/NationalSecurityAgency/ghidra
 * http://lock.cmpxchg8b.com/symbols.html
+* http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html
+* https://web.archive.org/web/20081120040312/http://lists.canonical.org/pipermail/kragen-hacks/2007-February/000450.html
+* https://web.archive.org/web/20090106212556/http://lists.canonical.org/pipermail/kragen-hacks/2007-February/000449.html
 
 ## Methodology
 ### Stages
@@ -333,6 +336,9 @@ PaperWeb: Paper-triggered Web Interactions
 CAM: A Mobile Interaction Framework for Digitizing Paper Processes in the Developing World
 DE S I G N I N G I N T E R A C T I O N S T H AT C O M B I NE P E N , PAP E R , A N D C O M P U T E R
 Computing with words and decision making
+Engineering Definitional Interpreters
+Definitional Interpreters for Higher-Order Programming Languages*
+Definitional Interpreters Revisted
 
 ## Binary Analysis
 
