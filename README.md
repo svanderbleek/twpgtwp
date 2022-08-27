@@ -128,6 +128,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://www.piumarta.com/software/maru/maru-2.4/
 * http://www.psirp.org/
 * https://legacy.python.org/workshops/1998-11/proceedings/papers/aycock-little/aycock-little.html
+* https://research.swtch.com/yaccalive
 
 ## Methodology
 ### Stages
