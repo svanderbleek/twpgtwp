@@ -2,6 +2,10 @@
 
 The Working Programmer's Guide To Working Programs
 
+## Vision
+
+Truly portable computation.
+
 ## Feasability Study
 
 Scenario: You are given an arbitrary computation device with input and output capabilities. You must boostrap a productive IDE for educational and exploratory programming.
@@ -130,6 +134,12 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://legacy.python.org/workshops/1998-11/proceedings/papers/aycock-little/aycock-little.html
 * https://research.swtch.com/yaccalive
 * http://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html
+* https://petsc.org/release/
+* https://www.odata.org/
+* https://dortania.github.io/OpenCore-Legacy-Patcher/START.html
+* https://statebox.org/
+* http://borisvassilev.github.io/lir/
+* http://web.cecs.pdx.edu/~sheard/Omega/index.html
 
 ## Methodology
 ### Stages
@@ -355,8 +365,19 @@ WYSINWYX: What You See Is Not What You eXecute
 BAP: A binary analysis platform
 BitBlaze: A new approach to computer security via binary analysis
 Parsing expression grammars: a recognition-based syntactic foundation
-LL(*): the foundation of the ANTLR parser generator
+LL(): the foundation of the ANTLR parser generator
 Meta-Language Support for Type-Safe Access to External Resources
+FogPi: A Portable Fog Infrastructure through Raspberry Pis
+Procedural Reflection in Programming Languages
+Verifying Duff ’s device
+a reusable duff's device
+Matrix Code
+Meta-Language Support for Type-Safe Access to
+External Resources
+LAPD: Language-Agnostic Program Database
+Type-Safe, Self Inspecting Code
+Meta-Programming with Typed Object-language. Representations
+Type-level Computation Using Narrowing in Ωmega.
 
 ## Binary Analysis
 
