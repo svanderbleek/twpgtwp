@@ -338,8 +338,9 @@ CAM: A Mobile Interaction Framework for Digitizing Paper Processes in the Develo
 DE S I G N I N G I N T E R A C T I O N S T H AT C O M B I NE P E N , PAP E R , A N D C O M P U T E R
 Computing with words and decision making
 Engineering Definitional Interpreters
-Definitional Interpreters for Higher-Order Programming Languages*
+Definitional Interpreters for Higher-Order Programming Languages
 Definitional Interpreters Revisted
+BinRec: Dynamic Binary Lifting and Recompilation
 
 ## Binary Analysis
 
