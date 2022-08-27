@@ -129,6 +129,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://www.psirp.org/
 * https://legacy.python.org/workshops/1998-11/proceedings/papers/aycock-little/aycock-little.html
 * https://research.swtch.com/yaccalive
+* http://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html
 
 ## Methodology
 ### Stages
