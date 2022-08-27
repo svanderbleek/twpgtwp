@@ -354,6 +354,9 @@ WYSINWYX: What You See Is Not What You eXecute
 {BYTEWEIGHT}: Learning to recognize functions in binary code
 BAP: A binary analysis platform
 BitBlaze: A new approach to computer security via binary analysis
+Parsing expression grammars: a recognition-based syntactic foundation
+LL(*): the foundation of the ANTLR parser generator
+Meta-Language Support for Type-Safe Access to External Resources
 
 ## Binary Analysis
 
