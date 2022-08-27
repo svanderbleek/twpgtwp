@@ -341,6 +341,7 @@ Engineering Definitional Interpreters
 Definitional Interpreters for Higher-Order Programming Languages
 Definitional Interpreters Revisted
 BinRec: Dynamic Binary Lifting and Recompilation
+Optimization of dynamic languages using hierarchical layering of virtual machines
 
 ## Binary Analysis
 
