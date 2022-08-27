@@ -420,6 +420,8 @@ Automated Theorem Proving in Euler Diagram Systems
 Speedith A reasoner for spider diagrams
 ABSTRACTION, VISUALISATION AND GRAPHICAL PROOF
 INHERENTLY PARALLEL GEOMETRIC COMPUTATIONS
+Parallel real-time computation: sometimes quantity means quality
+State of the art in heterogeneous strong migration of computations
 
 ## Binary Analysis
 
