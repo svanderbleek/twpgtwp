@@ -475,8 +475,8 @@ DisCoP: A P2P Framework for Managing and Searching Computing Markets
 Koorde: A simple degreeoptimal distributed hash table
 MAAN: A Multi-Attribute Addressable Network for Grid Information Services
 A SURVEY AND COMPARISON OF PEER-TO-PEER OVERLAY NETWORK SCHEMES
-Tapestry: A Resilient Global-scale Overlay for
-Service Deployment
+Tapestry: A Resilient Global-scale Overlay for Service Deployment
+Multiparty Computation, an Introduction
 
 ## Binary Analysis
 
