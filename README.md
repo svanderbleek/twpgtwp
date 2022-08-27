@@ -144,6 +144,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://statebox.org/
 * http://borisvassilev.github.io/lir/
 * http://web.cecs.pdx.edu/~sheard/Omega/index.html
+* http://manticore.cs.uchicago.edu/
 
 ## Methodology
 ### Stages
@@ -422,6 +423,14 @@ ABSTRACTION, VISUALISATION AND GRAPHICAL PROOF
 INHERENTLY PARALLEL GEOMETRIC COMPUTATIONS
 Parallel real-time computation: sometimes quantity means quality
 State of the art in heterogeneous strong migration of computations
+Maintaining Reference Graphs in Fully Decentralized Systems
+Process rescheduling: enabling performance by applying multiple metrics and efficient adaptations
+Reflection-based heterogeneous migration of computations
+Featherweight Concurrency in a Portable Assembly Language
+Manticore: A heterogeneous parallel language
+From Folklore to Fact: Comparing Implementations of Stacks and Continuations
+The Manticore runtime model
+ABSTRACTION, VISUALISATION AND GRAPHICAL PROOF 
 
 ## Binary Analysis
 
