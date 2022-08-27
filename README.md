@@ -418,7 +418,8 @@ A general framework for combining diagrammatic and symbolic problem solving
 Is Universal Computation a Myth?
 Automated Theorem Proving in Euler Diagram Systems
 Speedith A reasoner for spider diagrams
-ABSTRACTION, VISUALISATION AND GRAPHICAL PROOF 
+ABSTRACTION, VISUALISATION AND GRAPHICAL PROOF
+INHERENTLY PARALLEL GEOMETRIC COMPUTATIONS
 
 ## Binary Analysis
 
