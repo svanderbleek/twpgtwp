@@ -648,6 +648,7 @@ Architecture-Centric Software Migration for the Evolution of Web-based Systems
 A Formal Architectural Description Language based on Symbolic Transition Systems and Modal Logic
 looking outwards when dependent types meet io
 A Dependently Typed Programming Language, with applications to Foundational Certified Code Systems
+singleton: A general-purpose dependently-typed assembly language
 
 ## Binary Analysis
 
