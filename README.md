@@ -152,6 +152,13 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://fabiensanglard.net/another_world_polygons/
 * https://sbtcvm.blogspot.com/
 * http://users.atw.hu/gerigeri/DawnOS/index.html
+* https://breandan.net/2020/06/30/graph-computation/
+* https://davidbieber.com/post/2019-05-10-weisfeiler-lehman-isomorphism-test/
+* https://www.math3ma.com/blog/matrices-probability-graphs
+* http://logic.stanford.edu/kif/Hypertext/kif-manual.html
+* https://web.eecs.umich.edu/gasm/
+* https://luxxxlucy.github.io/projects/2020_terpret/terpret.html
+* https://pvk.ca/Blog/2022/07/11/plan-b-for-uuids-double-aes-128/
 
 ## Methodology
 ### Stages
@@ -510,6 +517,72 @@ Verification of graph programs
 GP 2: efficient implementation of a graph programming language
 Towards a Navigational Logic for Graphical Structures
 Incorrectness Logic for Graph Programs
+Axiomatic Bootstrapping: A guide for compiler hackers
+Hoare-style verification of gr erification of graph programs 
+Confluence up to Garbage
+Proof-Carrying Data
+Weisfeiler-Lehman Graph Kernels
+Computing extremal and approximate distances in graphs having unit cost edges
+Parsing Linear Context-Free Rewriting Systems with Fast Matrix Multiplication
+Newtonian Program Analysis via Tensor Product
+Newtonian Program Analysis
+Cost-Effectiveness of Strategies to Improve HIV Testing and Receipt of Results
+Fast Parallel Matrix and GCD Computations 
+Lower Bounds on Arithmetic Circuits via Partial Derivatives
+Learning Restricted Models of Arithmetic Circuits
+ParaMoC: A Parallel Model Checker for Pushdown Systems
+Decoding with Finite-State Transducers on GPUs
+Accelerated Finite State Machine Test Execution Using GPUs
+Solving Parity Games on the GPU
+Graph Algorithms in the Language of Linear Algebra
+A formal method for provably correct composition of a real-life processor out of basic components 
+Specification and Verification of Pipelining in the ARM2 RISC Microprocessor
+A Practical Method for Rigourously Controllable Hardware Design
+Modelling and Analysis of Distributed and Reactive Systems using Evolving Algebras
+Universal Plug and Play Machine Models
+An Approach to Dynamic Context Discovery and Composition
+High-Level Executable Specification of the Universal Plug and Play Architecture 
+A Survey of Architecture Description Languages
+A classification and comparison framework for software architecture description
+Giotto: A Time-Triggered Language for Embedded Programming
+Software Component Models
+Evaluating software architectures
+Palladio component model for model-driven performance prediction
+Towards a Taxonomy of Software Connectors
+The BRICS component model: a model-based development paradigm for complex robotics software systems
+Twenty-eight years of component-based software engineering
+ALI: An Extensible Architecture Description Language for Industrial Applications
+An Architecture Description Language for Massively Parallel Processor Architectures
+Processor description languages
+CGADL: An architecture description language for coarse-grained reconfigurable arrays
+XPDL: extensible platform description language to support energy modeling and optimization
+SkePU 2: Flexible and type-safe skeleton programming for heterogeneous parallel systems
+MeterPU: a generic measurement abstraction API
+GreenML: A methodology for fair evaluation of machine learning algorithms with respect to resource consumption
+Automatic deployment of distributed software systems: Definitions and state of the art
+ABS: A core language for abstract behavioral specification
+A survey of self-management in dynamic software architecture specifications
+A Model-Driven Deployment Approach for Scaling Distributed Software Architectures on a Cloud Computing Platform 
+Behavior Protocols for Software Components
+Partial Computation of Programs
+Practical partial evaluation for high-performance dynamic language runtimes
+Shallow Embedding of DSLs via Online Partial Evaluation
+TerpreT: A Probabilistic Programming Language for Program Induction
+Neural Turing Machines
+DARTS: DIFFERENTIABLE ARCHITECTURE SEARCH
+DreamCoder: Bootstrapping Inductive Program Synthesis
+Program Synthesis with Pragmatic Communication
+Semantic Code Search via Equational Reasoning
+Equality Saturation: A New Approach to Optimization
+Graph Representation Learning 
+Graph Algorithms in the Language of Linear Algebra
+Representation of Events in Nerve Nets and Finite Automata 
+Efficient Implementation of a BDD Package 
+An Optimal Solution for Test Case Generation Using ROBDD Graph and PSO Algorithm
+Biconditional BDD: A Novel Canonical BDD for Logic Synthesis targeting XOR-rich Circuits
+ALITHEIA: Towards Practical Verifiable Graph Processing
+Binary Decision Diagrams: An Algorithmic Basis for Symbolic Model Checking
+The Binary Decision Diagram: Abstraction and Implementation
 
 ## Binary Analysis
 
