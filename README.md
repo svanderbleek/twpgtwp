@@ -163,6 +163,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://web.archive.org/web/20170814163743/http://www.gtoal.com/languages/bcpl/amiga/bcpl/booting.txt
 * http://www.homebrewcpu.com/
 * https://github.com/magmide/magmide
+* https://ollef.github.io/blog/posts/query-based-compilers.html
 
 ## Methodology
 ### Stages
@@ -649,6 +650,8 @@ A Formal Architectural Description Language based on Symbolic Transition Systems
 looking outwards when dependent types meet io
 A Dependently Typed Programming Language, with applications to Foundational Certified Code Systems
 singleton: A general-purpose dependently-typed assembly language
+High-Level Separation Logic for Low-Level Code
+Hoare Logic for ARM Machine Code
 
 ## Binary Analysis
 
