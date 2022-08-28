@@ -148,6 +148,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://plancomps.csle.cs.rhul.ac.uk/
 * https://uoycs-plasma.github.io/GP2/
 * https://github.com/IMP1/blossom
+* https://zephyrproject.org/
 
 ## Methodology
 ### Stages
