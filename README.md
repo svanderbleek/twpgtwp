@@ -164,6 +164,9 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://www.homebrewcpu.com/
 * https://github.com/magmide/magmide
 * https://ollef.github.io/blog/posts/query-based-compilers.html
+* https://linuxfromscratch.org/
+* https://web.archive.org/web/20210225214156/http://mancoosi.org/software/#index2h1
+* https://web.archive.org/web/20140117075044/https://gitorious.org/debian-bootstrap/botch/source/05f8d246be9ea5c6e059e27eb16a35191dca99de:
 
 ## Methodology
 ### Stages
@@ -652,8 +655,14 @@ If you're willing to be crazy you can get a lot done.
 * singleton: A general-purpose dependently-typed assembly language
 * High-Level Separation Logic for Low-Level Code
 * Hoare Logic for ARM Machine Code
-
+* SBCL: a Sanely-Bootstrappable Common Lisp
 * A Practical Property-based Bootstrap Architecture
+* Translating HOL functions to hardware
+* Debootstrapping without Archeology: Stacked Implementations in Camlboot
+* Solving the Bootstrap Problem for Free and Open Source Binary Distributions
+* MPM :A Modular Package Manager
+* A formal approach to distributed application synthesis and deployment automation
+* Zephyrus2: On the Fly Deployment Optimization using SMT and CP Technologies?
 
 ## Binary Analysis
 
