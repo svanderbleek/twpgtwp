@@ -618,7 +618,31 @@ BSML-mbeddr: integrating semantically configurable state-machine models in a C p
 Geppetto: Versatile Verifiable Computation
 A Brief History of Just-In-Time
 The Virtual Processor: Fast, Architecture-Neutral Dynamic Code Generation
-
+YETI: A GRADUALLY EXTENSIBLE TRACE INTERPRETER
+VMKit: a Substrate for Managed Runtime Environments
+The Project Maxwell Assembler System
+A Step Towards Ubiquitous Computing : an Efficient Flexible micro-ORB
+Approximate Compilation for Embedded Model-based Reasoning
+A Basic Unit of Computation in Distributed Systems
+Toward Automatic Data Distribution for Migrating Computations
+Migratable User Interfaces: Beyond Migratory Interfaces 
+Automatic State Capture of Self-Migrating Computations
+State-Migration Shared-Variable Programming and its Runtime Support for Fine-Grained Cooperative Tasks
+Nomadic Pict: Programming Languages, Communication Infrastructure Overlays, and Semantics for Mobile Computation
+Developing correctly replicated databases using formal tools
+Seamless distributed computing from the geometry of interaction
+THE UNIVERSAL PROCESS
+Computation-by-Interaction for Structuring Low-Level Computation
+Krivine Nets: A semantic foundation for distributed execution
+Towards native higher-order remote procedure calls
+DI S T R I B U T I NG A B S T R AC T M AC H I N E S
+Defunctionalisation as Modular Closure Conversion
+The Geometry of Interaction as a Module System
+Distributed call-by-value machines
+ABS-NET: Fully decentralized runtime adaptation for distributed objects
+On the power of name-passing communication
+Thesis for Interaction
+Self-Organizing Migrating Algorithm
 
 ## Binary Analysis
 
