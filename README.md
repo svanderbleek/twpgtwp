@@ -162,6 +162,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://web.archive.org/web/20170825000213/http://www.cs.toronto.edu/XPL/
 * https://web.archive.org/web/20170814163743/http://www.gtoal.com/languages/bcpl/amiga/bcpl/booting.txt
 * http://www.homebrewcpu.com/
+* https://github.com/magmide/magmide
 
 ## Methodology
 ### Stages
@@ -643,6 +644,10 @@ ABS-NET: Fully decentralized runtime adaptation for distributed objects
 On the power of name-passing communication
 Thesis for Interaction
 Self-Organizing Migrating Algorithm
+Architecture-Centric Software Migration for the Evolution of Web-based Systems 
+A Formal Architectural Description Language based on Symbolic Transition Systems and Modal Logic
+looking outwards when dependent types meet io
+A Dependently Typed Programming Language, with applications to Foundational Certified Code Systems
 
 ## Binary Analysis
 
