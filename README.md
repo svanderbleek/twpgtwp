@@ -149,6 +149,9 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://uoycs-plasma.github.io/GP2/
 * https://github.com/IMP1/blossom
 * https://zephyrproject.org/
+* https://fabiensanglard.net/another_world_polygons/
+* https://sbtcvm.blogspot.com/
+* http://users.atw.hu/gerigeri/DawnOS/index.html
 
 ## Methodology
 ### Stages
