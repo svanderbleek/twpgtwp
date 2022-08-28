@@ -504,7 +504,8 @@ Efficient Graph Rewriting
 Rooted graph programs
 Verification of graph programs
 GP 2: efficient implementation of a graph programming language
-Towards a Navigational Logic for Graphical Structures 
+Towards a Navigational Logic for Graphical Structures
+Incorrectness Logic for Graph Programs
 
 ## Binary Analysis
 
