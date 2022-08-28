@@ -159,6 +159,9 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://web.eecs.umich.edu/gasm/
 * https://luxxxlucy.github.io/projects/2020_terpret/terpret.html
 * https://pvk.ca/Blog/2022/07/11/plan-b-for-uuids-double-aes-128/
+* https://web.archive.org/web/20170825000213/http://www.cs.toronto.edu/XPL/
+* https://web.archive.org/web/20170814163743/http://www.gtoal.com/languages/bcpl/amiga/bcpl/booting.txt
+* http://www.homebrewcpu.com/
 
 ## Methodology
 ### Stages
@@ -583,6 +586,39 @@ Biconditional BDD: A Novel Canonical BDD for Logic Synthesis targeting XOR-rich 
 ALITHEIA: Towards Practical Verifiable Graph Processing
 Binary Decision Diagrams: An Algorithmic Basis for Symbolic Model Checking
 The Binary Decision Diagram: Abstraction and Implementation
+A Language and Environment for Architecture-Based Software Development and Evolution
+Dependent Types for Low-Level Programming
+C O M P I L I N G W I T H D E P E N D E N T T Y P E S
+Dependent Type Theory for Verification of Information Flow and Access Control Policies
+Týr: a dependent type based codetransformation for spatial memory safety in LLVM
+Requirements in Feature Algebra
+Bootstrapping Domain-Specific Meta-Languages in Language Workbenches
+PIE: A Domain-Specific Language for Interactive Software Development Pipelines
+The art of bootstrapping
+Language-Parametric Methodsfor Developing Interactive Programming Systems
+Machine Function based Control Code Algebras
+ A formalism for translator interactions
+ Machine independence: Its technology and economics
+ Machine Structure Oriented Control Code Logic
+ Putting instruction sequences into effect
+ Outsourcing competence
+ Towards Formal Grammars As Institutions
+ Formal verification of OIL component specifications using mCRL2
+ Decision taking as a service
+ Platform Projections, Compilers,Cognitieve Interpreters and Portability
+development of a build system for cross platform open source projects
+Abstract machine construction through operational semantics refinements
+BabySteps: An approach to bootstrap an interactive system on COLA
+Bootstrapping the Object Oriented Operating System Merlin: Just Add Reflection
+Accessible Language-Based Environments of Recursive Theories
+Bootstrapped Semantics-Directed Compiler Generation
+Code generation for a family of executable modelling notations
+Semantically Configurable Code Generation
+BSML-mbeddr: integrating semantically configurable state-machine models in a C programming environment
+Geppetto: Versatile Verifiable Computation
+A Brief History of Just-In-Time
+The Virtual Processor: Fast, Architecture-Neutral Dynamic Code Generation
+
 
 ## Binary Analysis
 
