@@ -169,6 +169,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://web.archive.org/web/20140117075044/https://gitorious.org/debian-bootstrap/botch/source/05f8d246be9ea5c6e059e27eb16a35191dca99de:
 * https://gogs.librecmc.org/RISCI_ATOM/Stage0/src/master/README.org
 * https://www.gnu.org/software/mes/
+* https://github.com/digama0/mm0
 
 
 ## Methodology
@@ -699,14 +700,39 @@ If you're willing to be crazy you can get a lot done.
 * Modelling the ARMv8 Architecture, Operationally: Concurrency and ISA
 * Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API
 * Petr4: Formal Foundations for P4 Data Planes
-*  Formal Verification of Communication Protocols
-*  Promising-ARM/RISC-V: A Simpler and Faster Operational Concurrency Model
-*  The Missing Link: Explaining ELF Static Linking, Semantically
-*  Formal specification and verification of safety and performance of TCP selective acknowledgment
-*  Model checking large network protocol implementations
-*  Formal verification of standards for distance vector routing protocols
-*  What packets m come: automata for network monitoring
-*  A ormal Approach for Passive Testing of Protocol Data Portions
+* Formal Verification of Communication Protocols
+* Promising-ARM/RISC-V: A Simpler and Faster Operational Concurrency Model
+* The Missing Link: Explaining ELF Static Linking, Semantically
+* Formal specification and verification of safety and performance of TCP selective acknowledgment
+* Model checking large network protocol implementations
+* Formal verification of standards for distance vector routing protocols
+* What packets m come: automata for network monitoring
+* A ormal Approach for Passive Testing of Protocol Data Portions
+* Specifications and Proofs for Ensemble Layers
+* Building reliable, high-performance networks with the Nuprl proof development system. 
+* Verifying Network Protocol Implementations by Symbolic Refinement Checking
+* Designing DCCP: Congestion Control Without Reliability
+* Discovering Chatter and Incompleteness in the Datagram Congestion Control Protocol
+* Abstraction of Communication Channels in Promela
+* Verification and Improvement of the Sliding Window Protocol
+* Abruptly-Terminated Connections in TCP – A Verification Example
+* On Defining the Service Provided by TCP
+* Closed form expressions for the state space of TCP’s Data Transfer Service operating over unbounded channels
+* Service specification and protocol construction for the transport layer
+* A verified connection management protocol for the transport layer
+* Not-QuiteSo-Broken TLS: Lessons in Re-Engineering a Security Protocol Specification and Implementation
+* Detailed Models of Instruction Set Architectures: From Pseudocode to Formal Semantics
+* Specifying verified x86 software from scratch
+* A Mechanised Semantics for HOL with Ad-hoc Overloading
+* Metamath Zero: The Cartesian Theorem Prover
+* A Formally Verified Checker for First-Order Proofs
+* The TESC Proof Format for First-Order ATPs
+*  Semantic derivation verification: Techniques and implementation. 
+*  TSTP Data-Exchange Formats for Automated Theorem Proving Tools
+*  Recording Completion for Certificates in Equational Reasoning
+*  Mechanized Metatheory for the Masses: The PoplMark Challenge
+*  A compositional logic for control flow.
+
 
 ## Binary Analysis
 
