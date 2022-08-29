@@ -171,6 +171,12 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://www.gnu.org/software/mes/
 * https://github.com/digama0/mm0
 * http://www.ulisp.com/
+* http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html
+* https://github.com/firesim/FireMarshal
+* https://github.com/pulp-platform/bender
+* https://www.gem5.org/
+* https://github.com/litex-hub/linux-on-litex-rocket
+* https://paperswithcode.com/paper/codeapeel-an-integrated-and-layered-learning
 
 
 ## Methodology
@@ -728,14 +734,39 @@ If you're willing to be crazy you can get a lot done.
 * Metamath Zero: The Cartesian Theorem Prover
 * A Formally Verified Checker for First-Order Proofs
 * The TESC Proof Format for First-Order ATPs
-*  Semantic derivation verification: Techniques and implementation. 
-*  TSTP Data-Exchange Formats for Automated Theorem Proving Tools
-*  Recording Completion for Certificates in Equational Reasoning
-*  Mechanized Metatheory for the Masses: The PoplMark Challenge
-*  A compositional logic for control flow.
+* Semantic derivation verification: Techniques and implementation. 
+* TSTP Data-Exchange Formats for Automated Theorem Proving Tools
+* Recording Completion for Certificates in Equational Reasoning
+* Mechanized Metatheory for the Masses: The PoplMark Challenge
+* A compositional logic for control flow.
 * Parsing Expression Grammars: A Recognition-Based Syntactic Foundation
 * Incremental Computation with Names
-
+* Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency
+* On Valiant’s Conjecture: Impossibility of Incrementally Verifiable Computation from Random Oracles
+* Computationally sound proofs
+* Universal Arguments
+* proof checking and the hardness of approximation
+* Probabilistic checking of proofs: A new characterization of NP
+* VERI-ZEXE: Decentralized Private Computation with Universal Setup
+* Cluster Computing in Zero Knowledge
+* SMART: Secure and minimal architecture for (establishing a dynamic) root of trust.
+* TrustLite: A Security Architecture for Tiny Embedded Devices
+* CHAINIAC: Proactive softwareupdate transparency via collectively signed skipchains and verified builds
+* Decentralized Review and Attestation of Software Attribute Claims
+* Reproducibility and Performance: Why Choose?
+* Using FireSim to Enable Agile End-to-End RISC-V Computer Architecture Research
+* Firemarshal: Making hw/sw co-design reproducible and reliable
+* The BRISC-V Platform: A Practical Teaching Approach for Computer Architecture
+* bootstrapping a libre self hosting riscv computer
+* Challenges and solutions in creating a RISC-V computing platform
+* A Framework for Microarchitecture Traces as Abstraction Layer in Computer Architecture Education
+* PIPS: An Instruction Set Architecture for Teaching Computer Organization
+* RISC-V Reward: Building Out-of-Order Processors in a Computer Architecture Design Course with an Open-Source ISA
+* Computer Engineering Education Experiences with RISC-V Architectures—From Computer Architecture to Microcontrollers
+* CodeAPeel: An Integrated and Layered Learning Technology For Computer Architecture Courses
+* A Flexible Uncore Infrastructure for RISC-V Core Development
+* Teaching Out-of-Order Processor Design with the RISC-V ISA
+* Porting_OpenBSD_to_RISCV
 
 ## Binary Analysis
 
