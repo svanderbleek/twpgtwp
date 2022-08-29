@@ -666,7 +666,9 @@ If you're willing to be crazy you can get a lot done.
 * MPM :A Modular Package Manager
 * A formal approach to distributed application synthesis and deployment automation
 * Zephyrus2: On the Fly Deployment Optimization using SMT and CP Technologies?
-* The Case for Using Guix to Enable Reproducible RISC-V So!ware & Hardware
+* The Case for Using Guix to Enable Reproducible RISC-V Software & Hardware
+* Bootloader Design for MCUs in Embedded Systems
+* em dded Hardware Testing Using Bootloader
 
 ## Binary Analysis
 
