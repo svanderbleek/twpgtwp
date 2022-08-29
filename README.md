@@ -733,6 +733,7 @@ If you're willing to be crazy you can get a lot done.
 *  Recording Completion for Certificates in Equational Reasoning
 *  Mechanized Metatheory for the Masses: The PoplMark Challenge
 *  A compositional logic for control flow.
+* Parsing Expression Grammars: A Recognition-Based Syntactic Foundation
 
 
 ## Binary Analysis
