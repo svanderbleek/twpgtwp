@@ -668,7 +668,45 @@ If you're willing to be crazy you can get a lot done.
 * Zephyrus2: On the Fly Deployment Optimization using SMT and CP Technologies?
 * The Case for Using Guix to Enable Reproducible RISC-V Software & Hardware
 * Bootloader Design for MCUs in Embedded Systems
-* em dded Hardware Testing Using Bootloader
+* embedded Hardware Testing Using Bootloader
+* Study on Debugging Method Based on Embedded System Development Platform
+* Analysis of U-Boot booting process and the realization of command menu
+* Porting and board bring up of Mini2440 using U-boot 
+* A Novel Approach to Develop Dynamic Portable Instructional Operating System for Minimal Utilization 
+* an automatic testing framework for embedded software
+* Controlling the Bootstrap Process 
+* Methods of Securing the Bootstrap Process of an Operating System
+* A Secure and Reliable Bootstrap Architecture 
+* BITS: A Smartcard Protected Operating System 
+* Safe to the Last Instruction: Automated Verification of a Type-Safe Operating System
+* Resourceable, retargetable, modular instruction selection using a machine-independent, type-based tiling of low-level intermediate code
+* Synthesizing an Instruction Selection Rule Library from Semantic Specifications
+* Centaur technology media unit verification. 
+* A DFA-based x86-32 validator for Native Client
+* Native Client: A Sandbox for Portable, Untrusted x86 Native Code
+* Arrakis: The Operating System Is the Control Plane
+* Specialized Accelerators and Compiler Flows: Replacing Accelerator APIs with a Formal Software/Hardware Interface
+* Effective Simulation and Debugging for a High-Level Hardware Language Using Software Compilers
+* Bluespec SystemVerilog: Efficient, Correct RTL from High-Level Specifications 
+* Instruction-Level Abstraction 
+* A-QED Verification of Hardware Accelerators
+* Integrating Memory Consistency Models with Instruction-Level Abstractions for Heterogeneous System-on-Chip Verification
+* A Formal Instruction-Level GPU Model for Scalable Verification
+* Synthesizing Environment Invariants for Modular Hardware Verification
+* Isla: Integrating full-scale ISA semantics and axiomatic concurrency models
+* An integrated concurrency and core-ISA architectural envelope definition, and test oracle, for IBM POWER multiprocessors
+* Simplifying ARM Concurrency: Multicopy-Atomic Axiomatic and Operational Models for ARMv8
+* Modelling the ARMv8 Architecture, Operationally: Concurrency and ISA
+* Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API
+* Petr4: Formal Foundations for P4 Data Planes
+*  Formal Verification of Communication Protocols
+*  Promising-ARM/RISC-V: A Simpler and Faster Operational Concurrency Model
+*  The Missing Link: Explaining ELF Static Linking, Semantically
+*  Formal specification and verification of safety and performance of TCP selective acknowledgment
+*  Model checking large network protocol implementations
+*  Formal verification of standards for distance vector routing protocols
+*  What packets m come: automata for network monitoring
+*  A ormal Approach for Passive Testing of Protocol Data Portions
 
 ## Binary Analysis
 
