@@ -767,6 +767,7 @@ If you're willing to be crazy you can get a lot done.
 * A Flexible Uncore Infrastructure for RISC-V Core Development
 * Teaching Out-of-Order Processor Design with the RISC-V ISA
 * Porting_OpenBSD_to_RISCV
+* Verified Transformations and Hoare Logic: Beautiful Proofs for Ugly Assembly Language
 
 ## Binary Analysis
 
