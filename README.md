@@ -862,6 +862,9 @@ If you're willing to be crazy you can get a lot done.
 * Mashup of metalanguages and its implementation in the kermeta language workbench
 * mbeddr: Instantiating a Language Workbench in the Embedded Software Domain
 * A research on debugging tools’ platform independency
+* Functional Debug Techniques for Embedded Systems
+* Transaction-Based Communication-Centric Debug
+* Debug support for complex systems on-chip: a review
 
 ## Binary Analysis
 
