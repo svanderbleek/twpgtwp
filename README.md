@@ -853,14 +853,15 @@ If you're willing to be crazy you can get a lot done.
 * Open reusable object models.
 * Embedding languages without breaking tools
 * An implementation substrate for languages composing modularized crosscutting concerns
-*  Programming as planning
-*   Register allocation via puzzle solving via planning
-*   Jumble of Heuristic Notions
-*   Context-oriented programming: A software engineering perspective
-*   Language and IDE Modularization and Composition with MPS
-*   mbeddr: an extensible C-based programming language and IDE for embedded systems
-*   Mashup of metalanguages and its implementation in the kermeta language workbench
-*   mbeddr: Instantiating a Language Workbench in the Embedded Software Domain
+* Programming as planning
+* Register allocation via puzzle solving via planning
+* Jumble of Heuristic Notions
+* Context-oriented programming: A software engineering perspective
+* Language and IDE Modularization and Composition with MPS
+* mbeddr: an extensible C-based programming language and IDE for embedded systems
+* Mashup of metalanguages and its implementation in the kermeta language workbench
+* mbeddr: Instantiating a Language Workbench in the Embedded Software Domain
+* A research on debugging tools’ platform independency
 
 ## Binary Analysis
 
