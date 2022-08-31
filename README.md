@@ -177,6 +177,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://www.gem5.org/
 * https://github.com/litex-hub/linux-on-litex-rocket
 * https://paperswithcode.com/paper/codeapeel-an-integrated-and-layered-learning
+* https://github.com/bbchallenge/bbchallenge-proofs
 
 
 ## Methodology
