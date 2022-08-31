@@ -833,6 +833,12 @@ If you're willing to be crazy you can get a lot done.
 * Modeling ontology evolution with SetPi
 * On understanding types, data abstraction, and polymorphism
 * PKRU-Safe: Automatically Locking Down the Heap Between Safe and Unsafe Languages
+* Defense in Depth of Resource-Constrained Devices
+* Reinventing the Privilege Drop
+* Classes of recursively enumerable sets and their decision problems
+* Mismorphism: a Semiotic Model of Computer Security Circumvention
+* Exploit programming: From buffer overflows to weird machines and theory of computation
+* Unlimited Lives: Secure In-Process Rollback with Isolated Domains
 
 ## Binary Analysis
 
