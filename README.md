@@ -180,6 +180,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://github.com/bbchallenge/bbchallenge-proofs
 * https://caravel-harness.readthedocs.io/en/latest/getting-started.html
 * https://uniformal.github.io/
+* http://fitelson.org/maclogic.htm
 
 
 ## Methodology
