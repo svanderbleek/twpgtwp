@@ -252,6 +252,7 @@ If you're willing to be crazy you can get a lot done.
 * Automatic extraction of x86 formal semantics from its natural language description
 * DSV: Disassembly Soundness Validation withoutAssuming a Ground Truth
 * TYPES FOR THE CHAIN OF TRUST: NO (LOADER) WRITE LEFT BEHIND
+* Trust as a Programming Primitive
 * BARF: A multiplatform open source Binary Analysis and Reverse engineering Framework
 * Evaluation of the Executional Power in Windows using Return Oriented Programming
 * An Optimized Intermediate Representation for Binary Rewriting at Runtime
