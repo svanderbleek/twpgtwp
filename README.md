@@ -769,6 +769,38 @@ If you're willing to be crazy you can get a lot done.
 * Porting_OpenBSD_to_RISCV
 * Verified Transformations and Hoare Logic: Beautiful Proofs for Ugly Assembly Language
 * Flex: A Working Computer with an Architecture Based on Procedure Values
+* Intermediate Representations in Imperative Compilers: A Survey
+* Generalized Instruction Selection using SSA-Graphs
+* Code Instruction Selection Based on SSA-Graphs
+* Fast and flexible instruction selection with on-demand tree-parsing automata
+* BURG – Fast Optimal Instruction Selection and Tree Parsing
+* Optimal Code Selection in DAGs
+* Optimal code generation for expression trees
+* the MPG System: A Machine-Independent Efficient Microprogram Generator
+* Architecture Description Languages for Retargetable Compilation
+* Architecture Description Language (ADL)-Driven Software Toolkit Generation for Architectural Exploration of Programmable SOCs
+* Pbexplore: A framework for compilerin-the-loop exploration of partial bypassing in embedded processors
+* Automatic Design Space Exploration of Register Bypasses in Embedded Processors
+* Automatic generation of operation tables for fast exploration of bypasses in embedded processors
+* A framework for GUI-Driven design space exploration of a MIPS4K-like processor
+* Automatic Pipeline Synthesis and Formal Verification from transactional Datapath Specifications
+* Retargetable compiled simulation of embedded processors using a machine description language
+* Instruction set compiled simulation: A technique for fast and flexible instruction set simulation.
+* RTGEN: An algorithm for automatic generation of reservation tables from architectural descriptions
+* EXPRESSION: A language for architecture exploration through compiler/simulator retargetabilit
+* ‘A methodology for accurate performance evaluation in architecture exploration
+* Data and memory optimization techniques for embedded systems
+* ArchC: A SystemC-based architecture description language
+* Flexible and formal modeling of microprocessors with application to retargetable simulation
+* Modern development methods and tools for embedded reconfigurable systems: A survey
+* Pydgin: Generating Fast Instruction Set Simulators from 
+* Simple Architecture Descriptions with Meta-Tracing JIT Compilers
+* ASAM: automatic architecture synthesis and application mapping
+* Organizing the Aggregate: Languages for Spatial Computing
+* Shrink: Reducing the isa complexity via instruction recycling
+* TERAFLUX: Harnessing dataflow in next generation teradevices
+* A System for Generating Static Analyzers for Machine Instructions
+* Rapid Generation of High-Quality RISC-V Processors from Functional Instruction Set Specifications
 
 ## Binary Analysis
 
