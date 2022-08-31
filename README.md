@@ -182,6 +182,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://uniformal.github.io/
 * http://fitelson.org/maclogic.htm
 * http://gallium.inria.fr/~fpottier/menhir/
+* https://github.com/securesystemslab/pkru-safe
 
 
 ## Methodology
@@ -830,6 +831,8 @@ If you're willing to be crazy you can get a lot done.
 * Plans, actions and dialogues using linear logic
 * The interaction of representation and reasoning
 * Modeling ontology evolution with SetPi
+* On understanding types, data abstraction, and polymorphism
+* PKRU-Safe: Automatically Locking Down the Heap Between Safe and Unsafe Languages
 
 ## Binary Analysis
 
