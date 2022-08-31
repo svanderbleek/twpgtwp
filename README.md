@@ -865,6 +865,22 @@ If you're willing to be crazy you can get a lot done.
 * Functional Debug Techniques for Embedded Systems
 * Transaction-Based Communication-Centric Debug
 * Debug support for complex systems on-chip: a review
+* How eCos can be shrunk to fit
+* EMBEDDED SOFTWARE DEVELOPMENT WITH ECOS
+* HARDWARE ABSTRACTION LAYER
+* Introduction to hardware abstraction layers for SoC
+* Abstraction Layers and Energy Efficiency in TockOS, a Rust-based Runtime for the Internet of Things
+* SPACE: a new approach to operating system abstraction
+* An Object-Oriented Nano-Kernel for Operating System Hardware Support
+* Verification-Based Multi-backup Firmware Architecture, an Assurance of Trusted Boot Process for the Embedded Systems
+* Trusted Boot for Embedded Systems Using Hypothesis Testing Benchmark
+* A Novel Trusted Boot Model for Embedded Smart Device without TPM
+* A Survey of Secure Boot Schemes for Embedded Devices
+* THE DEVELOPMENT OF A HARDWARE ABSTRACTION LAYER GENERATOR FOR SYSTEM-ON-CHIP FUNCTIONAL VERIFICATION
+* Writing Testbenches - Functional verification of HDL models
+* Writing Testbenches Using System Verilog
+* An automatic testbench generation tool for a systemc functional verification methodology
+* Efficient Techniques for Directed Test Generation using Incremental Satisfiability
 
 ## Binary Analysis
 
