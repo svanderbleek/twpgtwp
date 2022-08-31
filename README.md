@@ -812,12 +812,23 @@ If you're willing to be crazy you can get a lot done.
 * Linking considered harmful.
 * AHA! An open Adaptive Hypermedia Architecture
 * Structure and behavior awareness in Themis. 
-*  IUHM: a hypermedia-based model for integrating open services, data and metadata.
-*  Rethinking structural computing infrastructures
-*  THEORY AND PRACTICE OF THE TERNARY RELATIONS MODEL OF INFORMATION MANAGEMENT 
-*  Traces of ternary relations
-*  Compositions of ternary relations
+* IUHM: a hypermedia-based model for integrating open services, data and metadata.
+* Rethinking structural computing infrastructures
+* THEORY AND PRACTICE OF THE TERNARY RELATIONS MODEL OF INFORMATION MANAGEMENT 
+* Traces of ternary relations
+* Compositions of ternary relations
 * Architecting structure-aware applications
+* Implementing a simple proof assistant
+* growing a proof assistant
+* Information accountability
+* From the semantic web to social machines
+* computational logic and the social
+* Dynamic first-order ontology repair
+* An interaction-based approach to semantic alignment
+* Repairing ontologies via axiom weakening
+* Plans, actions and dialogues using linear logic
+* The interaction of representation and reasoning
+* Modeling ontology evolution with SetPi
 
 ## Binary Analysis
 
