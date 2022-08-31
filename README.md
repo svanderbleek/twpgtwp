@@ -768,6 +768,7 @@ If you're willing to be crazy you can get a lot done.
 * Teaching Out-of-Order Processor Design with the RISC-V ISA
 * Porting_OpenBSD_to_RISCV
 * Verified Transformations and Hoare Logic: Beautiful Proofs for Ugly Assembly Language
+* Flex: A Working Computer with an Architecture Based on Procedure Values
 
 ## Binary Analysis
 
