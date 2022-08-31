@@ -235,6 +235,8 @@ If you're willing to be crazy you can get a lot done.
 
 > From the “weird machine” point of view, every input is a program, so long as it causes state changes in the system that consumes it. This view of input is, of course, standard in computation theory: a Turing Machine in of itself merely holds potential computing power until it presented with some input to drive it.
 
+> Wherever you encounter a general-purpose computer system, you will find a chain of one or more dynamic loaders, the first of which is known as a bootloader. As a system pulls itself into a state of usefulness and readiness, a tree-shaped chain of loaders are invoked rooted by the kickoff bootloader, each loading one or more binary images some of which are themselves loaders, occasionally branching when multiple distinct processors need initialization. Loaders are the centerpiece of the chain of trust, but few have a deep understanding of the bootloading process and even fewer have developed a bootloader or a general-purpose loader from scratch. Loaders are similar to electricity in that they are ubiquitous, in a relatively transparent and seemingly-magical way, but folks will lunge for their pitchforks if they stop working. A dynamic loader’s primary objective is to breath life into a static and inanimate binary image so that it can takeover and execute on its own in whatever environment is setup for it by the loader
+
 ## Soup
 
 * Nail: A Practical Interface Generator for Data Formats
