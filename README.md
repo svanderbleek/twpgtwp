@@ -842,6 +842,13 @@ If you're willing to be crazy you can get a lot done.
 * Mismorphism: a Semiotic Model of Computer Security Circumvention
 * Exploit programming: From buffer overflows to weird machines and theory of computation
 * Unlimited Lives: Secure In-Process Rollback with Isolated Domains
+* EPEX: Processor Verification by Equivalent Program Execution
+* RVVRadar: A Framework for Supporting the Programmer in Vectorization for RISC-V
+* Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers
+* Secure bootstrap is not enough: Shoring up the trusted computing base
+* An Evil Copy: How the Loader Betrays You.
+* NetQuery: A knowledge plane for reasoning about network properties
+* TrustFound: Towards a Formal Foundation for Model Checking Trusted Computing Platforms
 
 ## Binary Analysis
 
