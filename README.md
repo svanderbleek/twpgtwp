@@ -801,6 +801,19 @@ If you're willing to be crazy you can get a lot done.
 * TERAFLUX: Harnessing dataflow in next generation teradevices
 * A System for Generating Static Analyzers for Machine Instructions
 * Rapid Generation of High-Quality RISC-V Processors from Functional Instruction Set Specifications
+* A grand unified theory for structural computing.
+* Carbon nanotube computer
+* Unifying Structure, Behavior, and Data with Themis Types and Templates
+* As we should have thought
+* Linking considered harmful.
+* AHA! An open Adaptive Hypermedia Architecture
+* Structure and behavior awareness in Themis. 
+*  IUHM: a hypermedia-based model for integrating open services, data and metadata.
+*  Rethinking structural computing infrastructures
+*  THEORY AND PRACTICE OF THE TERNARY RELATIONS MODEL OF INFORMATION MANAGEMENT 
+*  Traces of ternary relations
+*  Compositions of ternary relations
+* Architecting structure-aware applications
 
 ## Binary Analysis
 
