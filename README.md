@@ -184,7 +184,10 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://gallium.inria.fr/~fpottier/menhir/
 * https://github.com/securesystemslab/pkru-safe
 * http://mbeddr.com/
-
+* https://halium.org/
+* https://github.com/GrapheneOS/hardened_malloc
+* https://source.android.com/docs/security/verifiedboot
+* https://attestation.app/about
 
 ## Methodology
 ### Stages
