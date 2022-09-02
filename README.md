@@ -188,6 +188,15 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://github.com/GrapheneOS/hardened_malloc
 * https://source.android.com/docs/security/verifiedboot
 * https://attestation.app/about
+* https://reprap.org/wiki/RepRap
+* http://cba.mit.edu/
+* https://www.haystack-mtn.org/haystack-labs
+* https://www.fablabs.io/
+* https://wiki.opensourceecology.org/wiki/Open_Source_Computer_Construction_Set
+* http://parallel.princeton.edu/openpiton/
+* https://gcc.gnu.org/onlinedocs/gccint/RTL.html
+* https://www.sqlite.org/limits.html
+* https://cs.lmu.edu/~ray/notes/ir/
 
 ## Methodology
 ### Stages
@@ -884,6 +893,60 @@ If you're willing to be crazy you can get a lot done.
 * Writing Testbenches Using System Verilog
 * An automatic testbench generation tool for a systemc functional verification methodology
 * Efficient Techniques for Directed Test Generation using Incremental Satisfiability
+* Rely-Guarantee Protocols for Safe Interference over Shared Memory
+* Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control
+* Universes: A Type System for Controlling Representation Exposure
+* Type and Effect Systems
+* MPI: A Message-Passing Interface Standard
+* Reasoning about object capabilities with logical relations and effect parametricity
+* A Logic of Secure Systems and its Application to Trusted Computing
+* A derivation system and compositional logic for security protocols
+* Protocol Composition Logic
+* Collapse (& Other Futures) Software Engineering 
+* Macroscopically Sustainable Networking: On Internet Quines
+* A pluriverse of local worlds: a review of Computing within Limits related terminology and practices
+* Implementation and Implications of a Stealth Hard-Drive Backdoor
+* Sustainable Interaction Design: Obsolescence in a Future of Collapse and Resource Scarcity
+* Unplanned obsolescence: Hardware and software after collapse
+* Architecture of a Junkyard Datacenter
+* Century-Scale Smart Infrastructure
+* New Directions: The Future of Sensing is Batteryless, Intermittent, and Awesome
+* Design of an RFID-based battery-free programmable sensing platform
+* Ember: energy management of batteryless event detection sensors with deep reinforcement learning
+* Marble: collaborative scheduling of batteryless sensors with meta reinforcement learning
+* tinyMAN: Lightweight Energy Manager using Reinforcement Learning for Energy Harvesting Wearable IoT Devices
+* ZEL: Net-Zero-Energy Lifelogging System using Heterogeneous Energy Harvesters
+* Repurposing Cathodic Protection Systems as Reliable, in-situ, Ambient Batteries for Sensor Networks
+* Capacity over capacitance for reliable energy harvesting sensors
+* TerraWatt: Sustaining Sustainable Computing of Containers in Containers
+* ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool
+* Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes
+* Data Centers from Discarded Cell Phones
+* Renee: New Life for Old Phones
+* Revolutionising Computing Infrastructure For Citizen Empowerment
+* The mote is dead: long live the discarded smartphone!
+* Computing while charging: Building a distributed computing infrastructure using smartphones
+* A Networked Embedded System Platform for the Post-Mote Era
+* Software-Defined Internet Architecture: Decoupling Architecture from Infrastructure
+* Networking in the Long Emergency
+* A delay-tolerant network architecture for challenged internets
+* Designing an architecture for delivering mobile information services to the rural developing world
+* OpenPiton: An Open Source Manycore Research Framework
+* FireSim: FPGA-accelerated cycle-exact scale-out system simulation in the public cloud
+* Reusability is FIRRTL ground: Hardware construction languages, compiler frameworks, and transformations
+* Architectural Implications of Function-as-a-Service Computing
+* Faasm: Lightweight isolation for efficient stateful serverless computing
+* The Design and Application of a Retargetable Peephole Optimizer 
+* DESCRIPTION OF A MACHINE ARCHITECTURE FOR USE WITH BLOCK STRUCTURED LANGUAGES
+* The EM Interpreter
+* The design and implementation of the EM Global Optimizer
+* The Constructive Semantics of Pure Esterel
+* The Esterel synchronous programming language: design, semantics, implementation
+* An Occam Compiler
+* A methodology and tool suite for C compiler generation from ADL processor models
+* LISA: A uniform ADL for embedded processor modeling, implementation, and software toolsuite generation
+* RTL processor synthesis for architecture exploration and implementation
+*  Ingredients of Adaptability: A Survey of Reconfigurable Processors.
 
 ## Binary Analysis
 
