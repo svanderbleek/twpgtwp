@@ -197,6 +197,9 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://gcc.gnu.org/onlinedocs/gccint/RTL.html
 * https://www.sqlite.org/limits.html
 * https://cs.lmu.edu/~ray/notes/ir/
+* https://github.com/YosysHQ/yosys
+* https://www.verific.com/
+* https://github.com/chipsalliance/firrtl
 
 ## Methodology
 ### Stages
@@ -947,6 +950,14 @@ If you're willing to be crazy you can get a lot done.
 * LISA: A uniform ADL for embedded processor modeling, implementation, and software toolsuite generation
 * RTL processor synthesis for architecture exploration and implementation
 *  Ingredients of Adaptability: A Survey of Reconfigurable Processors.
+* MyHDL: A Python-based Hardware Description Language
+* ArchHDL: A Novel Hardware RTL Design Environment in C++
+* Veriloggen: A library for constructing a Verilog HDL source code in Pytho
+* PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research
+* Avoiding game over: Bringing design to the next level
+* JHDL-an HDL for reconfigurable systems
+* HML, a novel hardware description language and its translation to VHDL
+* Chisel: Constructing Hardware in a Scala Embedded Language
 
 ## Binary Analysis
 
