@@ -200,6 +200,20 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://github.com/YosysHQ/yosys
 * https://www.verific.com/
 * https://github.com/chipsalliance/firrtl
+* https://github.com/Nic30/hwt
+* https://github.com/phanrahan/magma
+* https://github.com/myhdl/myhdl
+* https://github.com/SpinalHDL/SpinalHDL
+* https://github.com/PyHDI/veriloggen
+* https://github.com/rdaly525/coreir
+* https://github.com/kevinkim06/Halide-FIRRTL
+* https://eda.sw.siemens.com/en-US/ic/ic-design/high-level-synthesis-and-verification-platform/
+* https://halide-lang.org/
+* https://github.com/504ensicsLabs/LiME
+* https://melt.cs.umn.edu/
+* http://www.isola-conference.org/
+* https://www.jetbrains.com/help/mps/shapes-an-introductory-mps-tutorial.html
+* http://mbeddr.com/download.html#RequiredToolsAndVersions
 
 ## Methodology
 ### Stages
@@ -958,6 +972,54 @@ If you're willing to be crazy you can get a lot done.
 * JHDL-an HDL for reconfigurable systems
 * HML, a novel hardware description language and its translation to VHDL
 * Chisel: Constructing Hardware in a Scala Embedded Language
+* Programming Heterogeneous Systems from an Image Processing DSL
+* AutoPilot: A platform-based ESL synthesis system
+* High-level synthesis: Past, present, and future
+* High-level synthesis for FPGAs: From prototyping to deployment
+* Computer generation of hardware for linear digital signal processing transforms
+* Fpgabased accelerator design from a domain-specific language
+* Darkroom: Compiling high-level image processing code into hardware pipelines
+* A compiler and runtime for heterogeneous computing
+* Software Language Engineers' Worst Nightmare
+* The Software Language Extension Problem
+* Language composition untangled
+* SugarJ: Library-based syntactic language extensibility 
+* Reliable and automatic composition of language extensions to C: The ablec extensible language framework
+* Rascal: A domain specific language for source code analysis and manipulation
+* Modular language composition for the masses
+* Extensibility for the masses practical extensibility with object algebras
+* Language and IDE modularization and composition with MPS
+* Neverlang: A framework for featureoriented language development
+* Recaf: Java dialects as libraries
+* Revisiting visitors for modular extension of executable dsmls
+* Modular visitor components
+* Melange: A meta-language for modular and reusable development of dsls
+* Modular well-definedness analysis for attribute grammars
+* Silver: an extensible attribute grammar system
+* EVF: an extensible and expressive visitor framework for programming language reuse
+* Language design with the spoofax language workbench
+* The art of bootstrapping
+* Bootstrapping domain-specific meta-languages in language workbenches
+* Playground for multi-level modeling constructs
+* Teaching Language Engineering Using MPS
+* Leveraging Applications of Formal Methods, Verification and Validation
+* Automated Verification of Embedded Control Software
+* Rigorous Engineering of Collective Adaptive Systems
+* A distributed API for coordinating AbC programs
+* Programming of CAS systems by relying on attribute-based communication
+* From distributed coordination to field calculus and aggregate computing
+* From Field-Based Coordination to Aggregate Computing
+* vIRONy:, a tool for analysis and verification of ECA rules in intelligent environments
+* Mastering the Supply Chain by a Concept of a Digital Control-Twin
+* Digital Twin: Enabling Technologies, Challenges and Open Research
+* Leveraging Digital Twin Technology in Model-Based Systems Engineering
+* A program transformation approach to automating software re-engineering
+* KernelF - an Embeddable and Extensible Functional Language
+* DPF Workbench: a multi-level language workbench for MDE
+* Bootstrapping MDE Development from ROS Manual Code – Part 1: Metamodeling
+* MROS: Runtime Adaptation For Robot Control Architectures
+* Modelling of Language Syntax and Semantics: The Case of the Assembler Compiler
+
 
 ## Binary Analysis
 
