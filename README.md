@@ -267,6 +267,8 @@ If you're willing to be crazy you can get a lot done.
 
 > Wherever you encounter a general-purpose computer system, you will find a chain of one or more dynamic loaders, the first of which is known as a bootloader. As a system pulls itself into a state of usefulness and readiness, a tree-shaped chain of loaders are invoked rooted by the kickoff bootloader, each loading one or more binary images some of which are themselves loaders, occasionally branching when multiple distinct processors need initialization. Loaders are the centerpiece of the chain of trust, but few have a deep understanding of the bootloading process and even fewer have developed a bootloader or a general-purpose loader from scratch. Loaders are similar to electricity in that they are ubiquitous, in a relatively transparent and seemingly-magical way, but folks will lunge for their pitchforks if they stop working. A dynamic loader’s primary objective is to breath life into a static and inanimate binary image so that it can takeover and execute on its own in whatever environment is setup for it by the loader
 
+>  In the following years, the paradigm of Organic Computing was explored in a series of research projects, and in 2011, this work has been nicely summarized in the book Organic Computing, edited by Müller-Schloer et al. [49].Kramer et al. [50] proposed a two level monitoring approach to self-awareness. The low-level monitoring is based on counting events such as cache misses, fault occurrences, or performance counters. In principle, any event that can be counted can be subject to this mechanism. The monitor can be programmed during operation to associate any type of event with event-IDs allowing for flexibility with respect to the kind of events under observation. High-level monitoring uses the event counts for state classification to reflect relevant information about the systems performance and state. Since event grouping and limited event abstraction is possible, the resulting system can be considered rudimentarily self-aware
+
 ## Soup
 
 * Nail: A Practical Interface Generator for Data Formats
@@ -1020,7 +1022,39 @@ If you're willing to be crazy you can get a lot done.
 * MROS: Runtime Adaptation For Robot Control Architectures
 * Modelling of Language Syntax and Semantics: The Case of the Assembler Compiler
 * Alien vs. Quine
-
+* Underdesigned and Opportunistic Computing in
+* Presence of Hardware Variability
+* Software adaptation in quality sensitive applications to deal with hardware variability
+* A simple mechanism for improving the accuracy and efficiency of instruction-level disambiguation
+* VaMV: Variability-aware memory virtualization
+* Dynamic knobs for responsive power-aware computing
+* Green: A framework for supporting energy-conscious programming using controlled approximation
+* AppAdapt: Opportunistic application adaptation to compensate hardware variation
+* Design and architectures for dependable embedded systems
+* VarEMU: An emulation testbed for variability-aware software
+* ADeLe: A description language for approximate hardware
+* Self-Awareness in Systems on Chip— A Survey
+* Cyberphysical-systemon-chip (CPSoC): A self-aware MPSoC paradigm with cross-layer virtual sensing and actuation
+* Hierarchical agent monitoring design approach towards self-aware parallel systemson-chip
+* Coadapt: Predictable behavior for accuracy-aware applications running on power-aware systems
+* Self-aware hardware acceleration of financial applications on a heterogeneous cluster
+* Continuous online self-monitoring introspection circuitry for timing repair by incremental partial-reconfiguration (cosmic trip)
+* Cross-layer exploration of heterogeneous multicore processor configurations
+* On-chip self-awareness using cyberphysical-systems-on-chip (CPSoC)
+* Smart-balance: A sensing-driven Linux load balancer for energy efficiency of heterogeneous MPSoCs
+* Organic computing – A new vision for distributed embedded systems
+* Monitoring and self-awareness for heterogeneous, adaptive computing systems
+* Combining software and hardware LS for lightweight on-chip learning
+* DodOrg – A self-adaptive organic manycore architecture
+* Organic computing at the system on chip level
+* Autonomic system on chip platform
+* SEEC: A Framework for Self-Aware Computing
+* Application heartbeats: A generic interface for specifying program performance and goals in autonomous computing environments
+* A generalized software framework for accurate and efficient management of performance goals
+* HAMSoC: A monitoring-centric design approach for adaptive parallel computing
+* Hierarchical agent monitored parallel on-chip system: A novel design paradigm and its formal specification
+* Self-adaptive NoC power management with dual-level agents: Architecture and implementation
+* Toward smart embedded systems: A self-aware system-on-chip (SoC) perspective
 
 ## Binary Analysis
 
