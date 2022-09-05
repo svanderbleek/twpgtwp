@@ -1055,6 +1055,40 @@ If you're willing to be crazy you can get a lot done.
 * Hierarchical agent monitored parallel on-chip system: A novel design paradigm and its formal specification
 * Self-adaptive NoC power management with dual-level agents: Architecture and implementation
 * Toward smart embedded systems: A self-aware system-on-chip (SoC) perspective
+* Towards self-explaining digital systems: A design methodology for the next generation
+* CLaSH: Structural Descriptions of Synchronous Hardware using Haskel
+* Verifying SystemC using an intermediate verification language and symbolic simulation
+* Verifying the structure and behavior in UML/OCL models using satisfiability solvers
+* Self-verification as the key technology for next generation electronic systems
+* Envisioning self-verification of electronic system
+* Towards a methodology for self-verification
+* Towards lightweight satisfiability solvers for self-verification
+* Analyzing functional coverage in bounded model checking
+* Self-Organizing and Self-Explaining Pervasive Environments by Connecting Smart Objects and Applications
+* Safe, Intelligent and Explainable Self-Adaptive Systems
+* Which Adaptation Logic? An Objective and Subjective Performance Evaluation of HTTP-based Adaptive Media Streaming Systems
+* The Orchestration Stack: The Impossible Task of Designing Software for Unknown Future Post-CMOS Hardware
+* Network on chip: An architecture for billion transistor era
+* Single-isa heterogeneous multi-core architectures: The potential for processor power reduction
+* He-p2012: architectural heterogeneity exploration on a scalable many-core platform
+* Understanding fundamental design choices in single-isa heterogeneous multicore architectures
+* An energy-efficient network-on-chip for a heterogeneous tiled reconfigurable systems-on-chip
+* Runtime mapping of dynamic dataflow applications on heterogeneous multiprocessor platforms
+* A hybrid task mapping algorithm for heterogeneous MPSoCs
+* A compiler infrastructure for embedded heterogeneous MPSoCs
+* Popcorn: Bridging the programmability gap in heterogeneous-ISA platforms
+* Helios: Heterogeneous multiprocessing with satellite kernels
+* Probabilistic model checking for energy-utility analysis
+* Memory access patterns: The missing piece of the multi-gpu puzzle
+* M3: A hardware/operating-system co-design to tame heterogeneous manycores
+* Swarm: A scalable architecture for ordered parallelism
+* An application-specific instruction set for accelerating set-oriented database primitives
+* Tomahawk: Parallelism and heterogeneity in communications signal processing MPSoCs
+* Model checking techniques for design and analysis of future hardware and software systems
+* System Simulation with gem5, SystemC and other Tools
+* Transaction Level Modeling: An Overview
+* TLM 2.0 Simple Sockets Synthesis to RTL
+* A hardware/software stack for heterogeneous systems
 
 ## Binary Analysis
 
