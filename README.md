@@ -1019,6 +1019,7 @@ If you're willing to be crazy you can get a lot done.
 * Bootstrapping MDE Development from ROS Manual Code – Part 1: Metamodeling
 * MROS: Runtime Adaptation For Robot Control Architectures
 * Modelling of Language Syntax and Semantics: The Case of the Assembler Compiler
+* Alien vs. Quine
 
 
 ## Binary Analysis
