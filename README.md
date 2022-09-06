@@ -1091,6 +1091,8 @@ If you're willing to be crazy you can get a lot done.
 * TLM 2.0 Simple Sockets Synthesis to RTL
 * A hardware/software stack for heterogeneous systems
 * Algorithmic communication with extraterrestrial intelligence
+* An Algorithmic Approach to Communication Reduction in Parallel Graph Algorithms
+
 
 ## Binary Analysis
 
