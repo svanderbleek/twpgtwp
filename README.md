@@ -214,6 +214,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://www.isola-conference.org/
 * https://www.jetbrains.com/help/mps/shapes-an-introductory-mps-tutorial.html
 * http://mbeddr.com/download.html#RequiredToolsAndVersions
+* https://github.com/paulfitz/cosmicos
 
 ## Methodology
 ### Stages
