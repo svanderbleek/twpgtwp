@@ -1090,6 +1090,7 @@ If you're willing to be crazy you can get a lot done.
 * Transaction Level Modeling: An Overview
 * TLM 2.0 Simple Sockets Synthesis to RTL
 * A hardware/software stack for heterogeneous systems
+* Algorithmic communication with extraterrestrial intelligence
 
 ## Binary Analysis
 
