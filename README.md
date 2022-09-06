@@ -215,6 +215,8 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://www.jetbrains.com/help/mps/shapes-an-introductory-mps-tutorial.html
 * http://mbeddr.com/download.html#RequiredToolsAndVersions
 * https://github.com/paulfitz/cosmicos
+* https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation
+* http://inamidst.com/stuff/2014/autognomic
 
 ## Methodology
 ### Stages
@@ -1092,6 +1094,7 @@ If you're willing to be crazy you can get a lot done.
 * A hardware/software stack for heterogeneous systems
 * Algorithmic communication with extraterrestrial intelligence
 * An Algorithmic Approach to Communication Reduction in Parallel Graph Algorithms
+* Abstraction/Representation Theory for heterotic physical computing
 
 
 ## Binary Analysis
