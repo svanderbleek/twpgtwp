@@ -217,6 +217,8 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://github.com/paulfitz/cosmicos
 * https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation
 * http://inamidst.com/stuff/2014/autognomic
+* http://www.osdata.com/topic/language/uncol.htm
+* https://www.cs.kent.ac.uk/projects/ofa/kroc/
 
 ## Methodology
 ### Stages
@@ -1095,6 +1097,19 @@ If you're willing to be crazy you can get a lot done.
 * Algorithmic communication with extraterrestrial intelligence
 * An Algorithmic Approach to Communication Reduction in Parallel Graph Algorithms
 * Abstraction/Representation Theory for heterotic physical computing
+* When does a physical system compute?
+* A formal specification of a programming language: design of Pit
+* The essence of Bluespec: a core language for rule-based hardware design
+* From UNCOL to ANDF: Progress in standard intermediate languages
+* Technical overview of the common language runtime
+* A Virtual Machine Generator for Heterogeneous Smart Spaces
+* Process migration and transactions using a novel intermediate language
+* The reflective nitrO abstract machine
+* Semantic foundations of intermediate program representations
+* Bytecodes meet combinators: invokedynamic on the JVM
+* A survey of adaptive optimization in virtual machines
+* MetaPRL–a modular logical environment
+* Formal compiler construction in a logical framework
 
 
 ## Binary Analysis
