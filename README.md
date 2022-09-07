@@ -1195,6 +1195,7 @@ If you're willing to be crazy you can get a lot done.
 * The child as hacker: Building more human-like models of learning
 * Verified Quantitative Analysis of Imperative Algorithms
 * Arboreal categories: An axiomatic theory of resources
+* PROGRAML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations
 
 ## Binary Analysis
 
