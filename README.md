@@ -219,6 +219,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://inamidst.com/stuff/2014/autognomic
 * http://www.osdata.com/topic/language/uncol.htm
 * https://www.cs.kent.ac.uk/projects/ofa/kroc/
+* https://www.raml.co/
 
 ## Methodology
 ### Stages
@@ -1110,7 +1111,90 @@ If you're willing to be crazy you can get a lot done.
 * A survey of adaptive optimization in virtual machines
 * MetaPRL–a modular logical environment
 * Formal compiler construction in a logical framework
-
+* The geometry of optimal lambda reduction
+* An Algorithm for Optimal Lambda Calculus Reduction 
+* On laziness and optimality in lambda interpreters: Tools for specification and analysis
+* A new constructive logic: Classical logic
+* Optimal interpreters for lambda-calculus based functional languages.
+* Interaction nets
+* An Interaction Net Implementation of Closed Reduction
+* Proof nets and the λ-calculus
+* Lambdascope: Another optimal implementation of the lambda-calculus
+* A calculus for interaction nets
+* The Optimal Implementation of Functional Programming Languages
+* Explicit substitutions
+* A general theory of sharing graphs
+* Normalisation in lambda calculus and its relation to type inference
+* Anagopos: A Reduction Graph Visualizer for Term Rewriting and Lambda Calculus
+* Lambda calculus notation with nameless dummies, a tool for automatic formula manipulation
+* Compiling Untyped Lambda Calculus to Lower-Level Code by Game Semantics and Partial Evaluation
+* Semantics-Directed Compiler Generation
+* State transition machines for lambda calculus expressions
+* Normalisation by traversals
+* A concrete presentation of game semantics
+* Optimality and inefficiency: What isnt a cost model of the lambda calculus
+* Machine models and simulation
+* What is an efficient implementation of the λ-calculus
+* Automated higher-order complexity analysis
+* Proofs as programs
+* Bounded arithmetics
+* Computational complexity via programming languages: Constant factors do matter
+* Automated computational complexity analysis
+* A compositional approach to time analysis of 2rst order lazy functional programs
+* The intrinsic computational diFculty of functions
+* A naive time analysis and its theory of cost equivalence
+* Strictness analysis aids time analysis
+* Bounded linear logic: A modular approach to polynomial time computability
+* Fixpoint logics, relational machines, and computational complexity
+* Languages that capture complexity classes
+* Descriptive and computational complexity
+* A foundational delineation of computational feasibility
+* Efficient first order functional program interpreter with time bound certifications
+* Soft linear logic and polynomial time
+* Complexity and expressive power of logic programming
+* On constructor rewrite systems and the lambda-calculus
+* Analysing the implicit complexity of programs
+* Quasi-interpretations a way to control resources
+* A functional scenario for bytecode verification of resource bounds
+* Resource analysis by sup-interpretation
+* Synthesis of max-plus quasi-interpretations
+* A core quantitative coeffect calculus
+* Bounded linear types in a resource semiring
+* The type and effect discipline
+* Comonadic notions of computation
+* The marriage of effects and monads
+* Linear logic, monads and the lambda calculus
+* Coeffects: Unified static analysis of contextdependence
+* Coeffects: a calculus of context-dependent computation
+* Programming contextual computations
+* Combining effects and coeffects via grading
+* Syntax and semantics of quantitative type theory
+* Quantitative program reasoning with graded modal types
+* Multimodal dependent type theory
+* Relating structure and power: Comonadic semantics for computational resources
+* A unified view of modalities in type systems
+* A flexible multimodal proof assistant
+* Relational cost analysis
+* Precise detection of side-channel vulnerabilities using quantitative cartesian hoare logic
+* TiML: a functional language for practical complexity analysis with invariants
+* Work analysis with resource-aware session types
+* Resource-guided program synthesis
+* Resource-aware session types for digital contracts
+* Can advanced type systems be usable? An empirical study of ownership, assets, and typestate in obsidian
+* Session types with arithmetic refinements and their application to work analysis
+* Resources: A safe language abstraction for money
+* CAMP: cost-aware multiparty session protocols
+* A cost-aware logical framework
+* Internalizing Representation Independence with Univalence
+* Logical Relations as Types: Proof-Relevant Parametricity for Program Modules
+* Semantics of Type Theory Formulated in Terms of Representability
+* Staged compilation with two-level type theory
+* A Review of Algebraic-Style Reasoning for Type Theory
+* Raising expectations: automating expected cost analysis with types
+* Denotational recurrence extraction for amortized analysis
+* The child as hacker: Building more human-like models of learning
+* Verified Quantitative Analysis of Imperative Algorithms
+* Arboreal categories: An axiomatic theory of resources
 
 ## Binary Analysis
 
