@@ -1196,6 +1196,10 @@ If you're willing to be crazy you can get a lot done.
 * Verified Quantitative Analysis of Imperative Algorithms
 * Arboreal categories: An axiomatic theory of resources
 * PROGRAML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations
+* A complete proof of correctness of the Knuth-Bendix completion algorithm
+* LINEAL: A LINEAR-ALGEBRAIC λ-CALCULUS
+* A computational definition of the notion of vector space
+* Linear-algebraic lambda-calculus: higher-order, encodings, confluence
 
 ## Binary Analysis
 
