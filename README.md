@@ -1231,6 +1231,44 @@ If you're willing to be crazy you can get a lot done.
 * Modular Verification of Hardware Systems
 * A Keccak-based wireless authentication tag with per-query key update and power-glitch attack countermeasures
 * Hardware-level thread migration in a 110-core shared-memory multiprocessor
+* ISA semantics for ARMv8-a, RISC-v, and CHERI-MIPS
+* Keystone: An open framework for architecting tees
+* The essence of Bluespec: a core language for rule-based hardware design
+* Verified compilation on a verified processor
+* Wire sorts: A language abstraction for safe hardware composition
+* HIR: An mlir-based intermediate representation for hardware accelerator description
+* Coq's vibrant ecosystem for verification engineering
+* High-level synthesis tools should be proven correct
+* DEEQ: Data-driven End-to-End EQuivalence Checking of High-level Synthesis
+* A Mechanized Semantic Metalanguage for High Level Synthesis
+* Verifiable Security Templates 
+* The Mechanized Marriage of Effects and Monads with Applications to High-assurance Hardwarefor Hardware
+* Copatterns: Programming Infinite Structures by Observations
+* Semantics-Driven Design and Implementation of High-Assurance Hardware
+* Specification for the FIRRTL Language
+* Reusability is FIRRTL ground: Hardware construction languages, compiler frameworks, and transformations
+* High-Level Synthesis of FPGA Circuits with Multiple Clock Domains
+* Multiclock Esterel
+* A compiler infrastructure for accelerator generators
+* Function interface models for hardware compilation: Types, signatures, protocols
+* A golden age of hardware description languages: Applying programming language techniques to improve design productivity
+* A core calculus for secure hardware: its formal semantics and proof system
+* Tydi: an open specification for complex data structures over hardware streams
+* A Hardware Co-design Workflow for Scientific Instruments at the Edge
+* Dataflow Hardware Design for Big Data Acceleration Using Typed Interfaces
+* Coq meets CλaSH: proposing a hardware design synthesis flow that combines proof assistants with functional hardware description languages
+* What Are Semantics for Hardware?
+* Gemini: A Functional Programming Language for Hardware Description
+* A complete formal semantics of x86-64 user-level instruction set architecture
+* Promising-ARM/RISC-V: a simpler and faster operational concurrency model
+* Applicative matching logic
+* From Hoare Logic to Matching Logic
+* Decidable Fragments of Matching Logic
+* Matching logic explained
+* Matching mu-Logic
+* K—A Semantic Framework for Programming Languages and Formal Analysis
+* Theia: Automatically generating correct program state visualizations
+* Towards a trustworthy semantics-based language framework via proof generation
 
 ## Binary Analysis
 
