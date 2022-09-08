@@ -221,6 +221,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://www.cs.kent.ac.uk/projects/ofa/kroc/
 * https://www.raml.co/
 * http://wiki.fun-arch.org/
+* https://www.denx.de/wiki/U-Boot/
 
 ## Methodology
 ### Stages
@@ -1288,6 +1289,13 @@ If you're willing to be crazy you can get a lot done.
 * Formal Reasoning about Hardware Capability Architectures
 * Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems 
 * Cerise: Program Verification on a Capability Machine in the Presence of Untrusted Code
+* Trust as a Programming Primitive
+* Project Verona: a programming language for the modern cloud
+* A Bootloader Module is Designed and Implemented Based on a New Computer Architecture
+* Generic Bootloader Architecture Based on Automatic Update Mechanism
+* A Scalable Bootloader and Debugger Design for An NoC-based Multi-processor SoC 
+* A Two-stage Bootloader to Support Multi-application Deployment and Switching in Wireless Sensor Networks
+* A Reconfigurable and Scalable Verification Environment for NoC Design
 
 ## Binary Analysis
 
