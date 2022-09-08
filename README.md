@@ -220,6 +220,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * http://www.osdata.com/topic/language/uncol.htm
 * https://www.cs.kent.ac.uk/projects/ofa/kroc/
 * https://www.raml.co/
+* http://wiki.fun-arch.org/
 
 ## Methodology
 ### Stages
@@ -1200,6 +1201,18 @@ If you're willing to be crazy you can get a lot done.
 * LINEAL: A LINEAR-ALGEBRAIC λ-CALCULUS
 * A computational definition of the notion of vector space
 * Linear-algebraic lambda-calculus: higher-order, encodings, confluence
+* LEAN: An intermediate language based on graph rewriting
+* Graph Representation and Computation Rules for Typeless Recursive Languages
+* Correct and Optimal Implementations of Recursion in a Simple Programming Language
+* Addressed term rewriting systems: application to a typed object calculus
+* Tutorial introduction to the algebraic approach of graph-grammars
+* Minimal and Optimal Computations of Recursive Programs
+* An algebraic theory of graph reduction
+* Term graph reduction
+* DACTL: a computational model and compiler target language based on graph reduction
+* Equations and rewrite rules: a survey
+* A fully abstract semantics for concurrent graph reduction
+* Structured Combinators for Efficient Graph Reduction
 
 ## Binary Analysis
 
