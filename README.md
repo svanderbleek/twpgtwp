@@ -1213,6 +1213,24 @@ If you're willing to be crazy you can get a lot done.
 * Equations and rewrite rules: a survey
 * A fully abstract semantics for concurrent graph reduction
 * Structured Combinators for Efficient Graph Reduction
+* On the Expressive Power of Indexed Applicative and Monadic Structures
+* Static Methods to Check Low-Level Code for a Graph Reduction Machine
+* Comparing functional Embedded Domain-Specific Languages for hardware description
+* Pi-Ware: An Embedded Hardware Description Language using Dependent Types
+* Kami: a platform for high-level parametric hardware specification and its modular verification
+* Mixed Inductive-Coinductive Reasoning Types, Programs and Logic
+* A typing discipline for hardware interfaces
+* Reticle: a virtual machine for programming modern FPGAs
+* A Framework for Resource Dependent EDSLs in a Dependently Typed Language
+* Programming Abstractions and Efficient Compilation Techniques for Modern FPGAs
+* Reconciling Verified-Circuit Development and Verilog Development
+* Behavioural differential equations: a coinductive calculus of streams, automata, andpower series
+* Abstraction and verification in Alphard: Defining and specifying iteration and generators
+* Efficiently compiling efficient query plans for modern hardware
+* Translating a Visual LEGO Manual to a Machine-Executable Plan
+* Modular Verification of Hardware Systems
+* A Keccak-based wireless authentication tag with per-query key update and power-glitch attack countermeasures
+* Hardware-level thread migration in a 110-core shared-memory multiprocessor
 
 ## Binary Analysis
 
