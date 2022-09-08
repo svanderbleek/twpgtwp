@@ -1269,6 +1269,25 @@ If you're willing to be crazy you can get a lot done.
 * K—A Semantic Framework for Programming Languages and Formal Analysis
 * Theia: Automatically generating correct program state visualizations
 * Towards a trustworthy semantics-based language framework via proof generation
+* Stratified Synthesis: Automatically Learning the x86-64 Instruction Set
+* TSL: A System for Generating Abstract Interpreters and Its Application to Machine-Code Analysis
+* Formally Verified Big Step Semantics out of x86-64 Binaries
+* Synthesis of machine code from semantics
+* A Better x86 Memory Model: X86-TSO
+* The Semantics of x86-CC Multiprocessor Machine Code
+* Engineering a Formal, Executable x86 ISA Simulator for Software Verification
+* Simulation and Formal Verification of x86 Machine-Code Programs That Make System Calls
+* An isabelle/hol formalisation of the SPARC instruction set architecture and the TSO memory model
+* Defining interfaces between hardware and software: Quality and performance
+* Rigorous engineering for hardware security: Formal modelling and proof in the CHERI design and implementation process
+* Katamaran: semi-automated verification of ISA specifications
+* Semi-automatic verification of ISA security guarantees in the form of universal contracts
+* Formal Reasoning about Equivalences: from Secure Compilation to Categorical Weak Bisimulation
+* Security at the Hardware/Software Interface
+* Taming an Authoritative Armv8 ISA Specification: L3 Validation and CakeML Compiler Verification
+* Formal Reasoning about Hardware Capability Architectures
+* Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems 
+* Cerise: Program Verification on a Capability Machine in the Presence of Untrusted Code
 
 ## Binary Analysis
 
