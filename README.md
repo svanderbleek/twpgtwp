@@ -1296,6 +1296,12 @@ If you're willing to be crazy you can get a lot done.
 * A Scalable Bootloader and Debugger Design for An NoC-based Multi-processor SoC 
 * A Two-stage Bootloader to Support Multi-application Deployment and Switching in Wireless Sensor Networks
 * A Reconfigurable and Scalable Verification Environment for NoC Design
+* Development of BSP for ARM9 Evaluation Board
+* Porting and BSP Customization of Linux on ARM Platform
+* Toward a generic and secure bootloader for IoT device firmware OTA update
+* Remote programming and reconfiguration system for embedded devices
+* A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things
+* A Firmware Update Architecture for Internet of Things
 
 ## Binary Analysis
 
