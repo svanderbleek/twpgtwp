@@ -222,6 +222,7 @@ The goal is not to teach contemporary bare machine practices, but to approach an
 * https://www.raml.co/
 * http://wiki.fun-arch.org/
 * https://www.denx.de/wiki/U-Boot/
+* https://www.barebox.org/
 
 ## Methodology
 ### Stages
