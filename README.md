@@ -1303,6 +1303,7 @@ If you're willing to be crazy you can get a lot done.
 * Remote programming and reconfiguration system for embedded devices
 * A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things
 * A Firmware Update Architecture for Internet of Things
+* Design and Implementation of GPIO Enumeration Library and Application for UEFI-BIOS 
 
 ## Binary Analysis
 
