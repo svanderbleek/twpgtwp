@@ -1304,6 +1304,14 @@ If you're willing to be crazy you can get a lot done.
 * A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things
 * A Firmware Update Architecture for Internet of Things
 * Design and Implementation of GPIO Enumeration Library and Application for UEFI-BIOS 
+* Bit copying - the ultimate computational simplicity
+* A multi-one instruction set computer for microcontroller applications
+* Low cost permanent fault detection using ultra-reduced instruction set co-processors
+* Reliable computing with ultra-reduced instruction set coprocessors
+* One-instruction set computer-based multicore processors for energy-efficient streaming data processing
+* Better Software. Faster!: Best Practices in Virtual Prototyping
+* The next generation of virtual prototyping: Ultrafast yet accurate simulation of hw/sw systems,
+* Fast virtual prototyping for embedded computing systems design and exploration
 
 ## Binary Analysis
 
